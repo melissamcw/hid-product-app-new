@@ -63,7 +63,11 @@ app.controller('pluginsController', function($scope, $compile){
 
     $scope.openSocialSharing = function(){
 		
-		window.plugins.socialsharing.share('Message, subject, image and link', 'The subject', 'https://www.google.com/images/srpr/logo4w.png', 'http://www.google.com');
+		ons.ready(function()
+		{
+			window.plugins.socialsharing.share('Message, subject, image and link', 'The subject', 'https://www.google.com/images/srpr/logo4w.png', 'http://www.google.com');
+		})
+	
 
 		/*
 		 * 	Social Sharing Examples
