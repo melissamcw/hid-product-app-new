@@ -37,14 +37,8 @@
 /Users/MMcWilliams/Desktop/hid-product-app/platforms/android/assets/www/index.html \
 /Users/MMcWilliams/Desktop/hid-product-app/platforms/android/assets/www/js \
 /Users/MMcWilliams/Desktop/hid-product-app/platforms/android/assets/www/lib \
-/Users/MMcWilliams/Desktop/hid-product-app/platforms/android/assets/www/logical-access.html \
-/Users/MMcWilliams/Desktop/hid-product-app/platforms/android/assets/www/physical-access.html \
 /Users/MMcWilliams/Desktop/hid-product-app/platforms/android/assets/www/plugins \
-/Users/MMcWilliams/Desktop/hid-product-app/platforms/android/assets/www/plugins.html \
-/Users/MMcWilliams/Desktop/hid-product-app/platforms/android/assets/www/printer.html \
-/Users/MMcWilliams/Desktop/hid-product-app/platforms/android/assets/www/printers.html \
 /Users/MMcWilliams/Desktop/hid-product-app/platforms/android/assets/www/product-images \
-/Users/MMcWilliams/Desktop/hid-product-app/platforms/android/assets/www/product-lines.html \
 /Users/MMcWilliams/Desktop/hid-product-app/platforms/android/assets/www/product.html \
 /Users/MMcWilliams/Desktop/hid-product-app/platforms/android/assets/www/productlist.csv \
 /Users/MMcWilliams/Desktop/hid-product-app/platforms/android/assets/www/res \
