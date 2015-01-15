@@ -10,14 +10,14 @@
 	<string>HID Product Solutions</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>F9EA5EA05D5B8FD7A1783F739165D5CE990EE48C</key>
+		<key>C2CE53DC4AA31D6BA4E64FC9C67EC95EF0A0BD89</key>
 		<string>https://github.com/melissamcw/hid-new-product-app.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>platforms/ios/HID Product Solutions.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>F9EA5EA05D5B8FD7A1783F739165D5CE990EE48C</key>
+		<key>C2CE53DC4AA31D6BA4E64FC9C67EC95EF0A0BD89</key>
 		<string>../../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
@@ -25,14 +25,14 @@
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>F9EA5EA05D5B8FD7A1783F739165D5CE990EE48C</string>
+	<string>C2CE53DC4AA31D6BA4E64FC9C67EC95EF0A0BD89</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>F9EA5EA05D5B8FD7A1783F739165D5CE990EE48C</string>
+			<string>C2CE53DC4AA31D6BA4E64FC9C67EC95EF0A0BD89</string>
 			<key>IDESourceControlWCCName</key>
 			<string>hid-product-app</string>
 		</dict>
