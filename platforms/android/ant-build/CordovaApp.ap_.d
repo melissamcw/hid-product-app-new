@@ -1,5 +1,6 @@
 /Users/MMcWilliams/Desktop/hid-product-app/platforms/android/ant-build/CordovaApp.ap_ \
  : /Users/MMcWilliams/Desktop/hid-product-app/platforms/android/res/drawable/icon.png \
+/Users/MMcWilliams/Desktop/hid-product-app/platforms/android/res/drawable/screen.png \
 /Users/MMcWilliams/Desktop/hid-product-app/platforms/android/res/drawable-land-hdpi/screen.png \
 /Users/MMcWilliams/Desktop/hid-product-app/platforms/android/res/drawable-land-ldpi/screen.png \
 /Users/MMcWilliams/Desktop/hid-product-app/platforms/android/res/drawable-land-mdpi/screen.png \
@@ -11,6 +12,7 @@
 /Users/MMcWilliams/Desktop/hid-product-app/platforms/android/res/values/strings.xml \
 /Users/MMcWilliams/Desktop/hid-product-app/platforms/android/res/xml/config.xml \
 /Users/MMcWilliams/Desktop/hid-product-app/platforms/android/ant-build/res/drawable/icon.png \
+/Users/MMcWilliams/Desktop/hid-product-app/platforms/android/ant-build/res/drawable/screen.png \
 /Users/MMcWilliams/Desktop/hid-product-app/platforms/android/ant-build/res/drawable-land-hdpi/screen.png \
 /Users/MMcWilliams/Desktop/hid-product-app/platforms/android/ant-build/res/drawable-land-ldpi/screen.png \
 /Users/MMcWilliams/Desktop/hid-product-app/platforms/android/ant-build/res/drawable-land-mdpi/screen.png \
@@ -27,7 +29,6 @@
 /Users/MMcWilliams/Desktop/hid-product-app/platforms/android/assets/www/cordova_plugins.js \
 /Users/MMcWilliams/Desktop/hid-product-app/platforms/android/assets/www/crossdomain.xml \
 /Users/MMcWilliams/Desktop/hid-product-app/platforms/android/assets/www/css \
-/Users/MMcWilliams/Desktop/hid-product-app/platforms/android/assets/www/dish.html \
 /Users/MMcWilliams/Desktop/hid-product-app/platforms/android/assets/www/favicon.ico \
 /Users/MMcWilliams/Desktop/hid-product-app/platforms/android/assets/www/files \
 /Users/MMcWilliams/Desktop/hid-product-app/platforms/android/assets/www/fonts \
