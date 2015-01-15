@@ -1776,13 +1776,13 @@ p#previous_swiper {
 
 .reset-icon {
   position: absolute;
-  right: 2%;
+  left: 2%;
   top: 4.5%;
   cursor: pointer;
   z-index: 1000; }
   .reset-icon i {
     font-size: 1.3em;
-    color: #05549C; }
+    color: #fff; }
 
 a {
   cursor: pointer !important; }
@@ -1805,7 +1805,7 @@ section.homepage {
       list-style-type: none;
       padding: 0.5em 0 0.5em 15%;
       margin: 1em 0;
-      background-color: #05549C;
+      background-color: rgba(255, 255, 255, .025);
       color: #FFFFFF;
       -webkit-border-radius: 10px;
       -moz-border-radius: 10px;
@@ -1813,14 +1813,15 @@ section.homepage {
       z-index: 10 !important;
       position: relative;
       text-align: left;
-      background-image: -webkit-gradient(linear, left bottom, left top, color-stop(0, #05549C), color-stop(1, #6C99C4));
-      background-image: linear-gradient(to top, #05549C 0%, #6C99C4 100%); }
+      height:10em;
+      /*background-image: -webkit-gradient(linear, left bottom, left top, color-stop(0, #05549C), color-stop(1, #6C99C4));*/
+      /*background-image: linear-gradient(to top, #05549C 0%, #6C99C4 100%);*/ }
       section.homepage ul#vertical_list li:last-child a img {
         position: relative;
         left: -2%;
         top: -0.1em; }
       section.homepage ul#vertical_list li a {
-        color: #FFF;
+        color: #002e56;
         text-decoration: none;
         font-family: 'Gotham Light'; }
       section.homepage ul#vertical_list li img {
@@ -1843,19 +1844,21 @@ section.vertical {
     text-align: left; }
     section.vertical header .vertical-icon {
       position: absolute;
-      left: 5%;
-      top: 5%; }
+      left: 10%;
+      top: 12%;
+      float:left; }
       section.vertical header .vertical-icon img {
         width: 19%; }
   section.vertical h1 {
     font-family: 'Gotham Light';
     font-weight: lighter;
-    margin: 2.3em 0 0 0;
-    padding: 0 0 0 2.5em;
+    margin: 0 0 1em 3.3em;
+    padding: 0 0 0 0em;
     text-align: left;
     line-height: 1em;
     font-size: 1.7em; 
-    color: #fff;}
+    color: #fff;
+    position:relative;}
   section.vertical .product-thumbnails {
     height: 100%; }
     section.vertical .product-thumbnails div {

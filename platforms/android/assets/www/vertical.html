@@ -17,20 +17,19 @@
 
     </head>
     <body>
+
+      <div class="center" style="padding-top:5%;"><img src="img/brick.png"</div>
+      <div class="reset-icon"><a href="index.html"><i class="fa fa-arrow-left"></i></a></div>
                 
         <section class="container vertical">
-      
-        <div class="reset-icon"><a href="index.html"><i class="fa fa-undo"></i></a></div>
-
-
             <header>      
               <div class="vertical-icon"></div>
               <h1 id="vertical-title"></h1>
             </header>
 
 
-            <p id="next_swiper"><img src="img/arrow-right.png" alt="" /> </p>
-            <p id="previous_swiper" style="display:none;"><img src="img/arrow-left.png" alt="" /> </p>
+            <!--<p id="next_swiper"><img src="img/arrow-right.png" alt="" /> </p>
+            <p id="previous_swiper" style="display:none;"><img src="img/arrow-left.png" alt="" /> </p> -->
 
 
 
@@ -80,12 +79,9 @@
         <!-- page specific logic -->
         <script type="text/javascript">
             <!--
-
             $(document).ready(function() {
-
               //store hash value for querying json array
               window.hashvalue = location.hash.substr(1);
-
               //dependent on hash value decide what to show
               if (window.hashvalue == 'pacs') {
                 $('.vertical-icon').html('<img src="img/physical-access.png" alt=""  />');
@@ -99,18 +95,13 @@
                 $('.vertical-icon').html('<img src="img/credentials.png" alt=""  />');
                 $('#vertical-title').html('Card Printers');
               };
-
-
               paparesults(window.jsonproductsarray);
           
-
               //setup callback method for when papa parse is finished
               function paparesults(results){
-
                     // setup initial vars 
                     vertical_count = 0;
                     i = 0;
-
                     //run through json array to determine how many of the chosen vertical products there are
                     $.each( results, function( key, value ) {
                         if( value['vertical'] == window.hashvalue){
@@ -118,51 +109,38 @@
                             i++;
                         }
                     });
-
                     //store the total count of the specified vertical to use later on
                     totalItems = i;
-
                     //store the number of slides we need based on value of i and then zero i for next counter
                     numslides = Math.ceil(i/9);
                     i = 0;
-
                     //add the number of requied slide containers to the slide wrapper in preparation for filling them with the required images
                     while( i < numslides ){
                         $('.swiper-wrapper').append('<div class="swiper-slide" id="slider-'+i+'"> <div class="product-thumbnails"></div> </div>');
                         i++;
                     }
-
                     i = 0;
                     $('.swiper-slide').each(function(){
                         i = 0;
-
                         idofslide = $(this).attr('id');
-
                         $.each( results, function( key, value ) {
-
                             if( value['model'] == null ){
                               return true;
                             }
-
                             if( value['vertical'] != window.hashvalue ){
                               return true;
                             }
-
                             if( i >= 9){
                               return false;
                             }
                             i++;
-
                             //insert links and images for slider 
                             $('#'+idofslide).find('.product-thumbnails').append('<div><a href="product.html"><img src="product-images/'+value['imagefilename']+'" alt="" /><p>'+value['name']+'</p></a></div>');
                             
                             // remove inserted element from JSON array so it's not inserted again
                             value['model'] = null;
-
                         });
-
                     });
-
                     //once we've run through the csv entries and added them to the dom, finally call and enable the swiper
                     window.mySwiper = $('.vertical-slider').swiper({
                           //Your options here:
@@ -180,27 +158,16 @@
                               }
                          }
                     });
-
-
                     $('.swiper-wrapper').delay(500).removeClass('hide');
-
-
-
               }//closing paparesults
-
-
               //bind a handler to the anchors to log the index of the anchor clicked. Used on next page to go straight to the selcted product.
               $('.swiper-wrapper').on('click', '.swiper-slide div.product-thumbnails div a', function(e){
-
                 // get id of swiper-slide container
                 idofslide = $(this).parents('.swiper-slide').attr('id');
-
                 //from the ID get the number 0, 1, 2 etc
                 multiplier = idofslide.charAt(idofslide.length - 1);
-
                 //calulate the index to use on next screen
                 finalIndex = 0;
-
                 // calc the index of the product for the next page
                 if ( multiplier == 0 ) {
                   finalIndex = $(this).parents('div').index();
@@ -208,16 +175,10 @@
                 else{
                   finalIndex = $(this).parents('div').index() + ( 9 * multiplier );
                 };
-
                 //store finalIndex in a cookie so we can go straight to it on the product page
                 $.cookie('productIndexSelected', finalIndex );
-
               });
-
-
-
             }); 
-
         -->
         </script>
 

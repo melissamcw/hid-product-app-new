@@ -1794,18 +1794,18 @@ section.homepage {
   height: 100%; }
   section.homepage h1 {
     font-family: 'Gotham Light';
-    font-size: 1.5em;
+    font-size: 2.5em;
     font-weight: normal; 
     color: #fff;}
   section.homepage ul#vertical_list {
-    margin: 15% auto 0 auto;
+    margin: 5% auto 0 auto;
     padding: 0;
     width: 80%; }
     section.homepage ul#vertical_list li {
       list-style-type: none;
       padding: 0.5em 0 0.5em 15%;
       margin: 1em 0;
-      background-color: #05549C;
+      background-color: rgba(255, 255, 255, .25);
       color: #FFFFFF;
       -webkit-border-radius: 10px;
       -moz-border-radius: 10px;
@@ -1813,20 +1813,24 @@ section.homepage {
       z-index: 10 !important;
       position: relative;
       text-align: left;
-      background-image: -webkit-gradient(linear, left bottom, left top, color-stop(0, #05549C), color-stop(1, #6C99C4));
-      background-image: linear-gradient(to top, #05549C 0%, #6C99C4 100%); }
+      height: 5em;
+      /*background-image: -webkit-gradient(linear, left bottom, left top, color-stop(0, #05549C), color-stop(1, #6C99C4));*/
+      /*background-image: linear-gradient(to top, #05549C 0%, #6C99C4 100%);*/ }
       section.homepage ul#vertical_list li:last-child a img {
         position: relative;
-        left: -2%;
+        left: 2%;
         top: -0.1em; }
       section.homepage ul#vertical_list li a {
-        color: #FFF;
+        color: #002e56;
         text-decoration: none;
         font-family: 'Gotham Light'; }
       section.homepage ul#vertical_list li img {
-        width: 15%;
+        width: 35%;
+        height: 90%;
         display: inline;
-        margin: 0 5% 0 0; }
+        margin: 0 0 0 0;
+        padding: 0 0 0 -1em;
+        float:left; }
   section.homepage #passwordrequest {
     margin: 5em auto;
     font-size: 0.7em; }
