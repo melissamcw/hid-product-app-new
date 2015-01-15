@@ -1776,13 +1776,13 @@ p#previous_swiper {
 
 .reset-icon {
   position: absolute;
-  right: 2%;
+  left: 2%;
   top: 4.5%;
   cursor: pointer;
   z-index: 1000; }
   .reset-icon i {
     font-size: 1.3em;
-    color: #05549C; }
+    color: #fff; }
 
 a {
   cursor: pointer !important; }
@@ -1842,20 +1842,23 @@ section.vertical {
     padding: 0 0 1.2em 0;
     text-align: left; }
     section.vertical header .vertical-icon {
-      position: absolute;
-      left: 5%;
-      top: 5%; }
+      position: relative;
+      left: 6%;
+      /*top: 12%;*/
+      float:left; }
       section.vertical header .vertical-icon img {
         width: 19%; }
   section.vertical h1 {
     font-family: 'Gotham Light';
     font-weight: lighter;
-    margin: 2.3em 0 0 0;
-    padding: 0 0 0 2.5em;
+    /*margin: 2.5em 0 0 0;*/
+    /*padding: 0 0 0 2.5em;*/
     text-align: left;
     line-height: 1em;
     font-size: 1.7em; 
-    color: #fff;}
+    color: #fff;
+    position:relative;
+    float:left;}
   section.vertical .product-thumbnails {
     height: 100%; }
     section.vertical .product-thumbnails div {
