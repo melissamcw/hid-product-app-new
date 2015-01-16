@@ -1804,33 +1804,33 @@ section.homepage {
     width: 80%; }
     section.homepage ul#vertical_list li {
       list-style-type: none;
-      padding: 0 9% 1% 4%;
+      padding: 0.5em 0 0.5em 15%;
       margin: 1em 0;
       background-color: rgba(255, 255, 255, .40);
       color: #FFFFFF;
-      -webkit-border-radius: 10px;
-      -moz-border-radius: 10px;
+      -webkit-border-radius: 5px;
+      -moz-border-radius: 5px;
       border-radius: 5px;
       z-index: 10 !important;
       position: relative;
       text-align: left;
       font-size: 1.1em;
-      height: 6em;
+      height: 110%;
       /*background-image: -webkit-gradient(linear, left bottom, left top, color-stop(0, #05549C), color-stop(1, #6C99C4));*/
       /*background-image: linear-gradient(to top, #05549C 0%, #6C99C4 100%);*/ }
       section.homepage ul#vertical_list li:last-child a img {
         position: relative;
-        left: 1%;}
+        left: -2%;
+        top: -0.1em; }
       section.homepage ul#vertical_list li a {
         color: #05549C;
         letter-spacing: -1px;
-        text-decoration: none;
+        text-decoration: none;    
         font-family: 'Gotham Light'; }
       section.homepage ul#vertical_list li img {
-        width: 30%;
+        width: 25%;
         display: inline;
-        margin: 1.3em 5% 0 0;
-        left: 2%; }
+        margin: 0 5% 0 -10%; }
   section.homepage #passwordrequest {
     margin: 5em auto;
     font-size: 0.7em; }
