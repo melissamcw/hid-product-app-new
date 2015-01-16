@@ -15348,3 +15348,345 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 2015-01-15 19:28:19.060 HID Product Solutions[1927:458969] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/1680E415-9F26-4837-8EB8-8EAAB88DAFC1/HID%20Product%20Solutions.app/www/vertical.html#pacs
 2015-01-15 19:28:21.578 HID Product Solutions[1927:458969] Resetting plugins due to page load.
 2015-01-15 19:28:21.855 HID Product Solutions[1927:458969] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/1680E415-9F26-4837-8EB8-8EAAB88DAFC1/HID%20Product%20Solutions.app/www/product.html
+2015-01-15 19:29:37.977 HID Product Solutions[1927:458969] Resetting plugins due to page load.
+2015-01-15 19:29:37.991 HID Product Solutions[1927:458969] Failed to load webpage with error: The requested URL was not found on this server.
+2015-01-15 19:29:38.504 HID Product Solutions[1927:458969] Resetting plugins due to page load.
+2015-01-15 19:29:38.505 HID Product Solutions[1927:458969] Failed to load webpage with error: The requested URL was not found on this server.
+2015-01-15 19:31:04.044 HID Product Solutions[2372:461318] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Data/Application/CBD12BED-C0F5-4217-8BF2-A75D6B7C39E6/Library/Cookies/Cookies.binarycookies
+2015-01-15 19:31:04.124 HID Product Solutions[2372:461318] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-15 19:31:04.124 HID Product Solutions[2372:461318] Multi-tasking -> Device: YES, App: YES
+2015-01-15 19:31:04.125 HID Product Solutions[2372:461318] Unlimited access to network resources
+2015-01-15 19:31:04.128 HID Product Solutions[2372:461318] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-15 19:31:04.358 HID Product Solutions[2372:461318] [CDVTimer][splashscreen] 46.168029ms
+2015-01-15 19:31:04.441 HID Product Solutions[2372:461318] [CDVTimer][socialsharing] 82.261026ms
+2015-01-15 19:31:04.441 HID Product Solutions[2372:461318] [CDVTimer][TotalPluginStartup] 128.718019ms
+2015-01-15 19:31:04.486 HID Product Solutions[2372:461318] Resetting plugins due to page load.
+2015-01-15 19:31:04.767 HID Product Solutions[2372:461318] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/575CF774-D23D-4697-BD9C-BADA52D039AC/HID%20Product%20Solutions.app/www/index.html
+2015-01-15 19:31:05.668 HID Product Solutions[2372:461318] Resetting plugins due to page load.
+2015-01-15 19:31:05.830 HID Product Solutions[2372:461318] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/575CF774-D23D-4697-BD9C-BADA52D039AC/HID%20Product%20Solutions.app/www/vertical.html#pacs
+2015-01-15 19:31:06.922 HID Product Solutions[2372:461318] Resetting plugins due to page load.
+2015-01-15 19:31:07.188 HID Product Solutions[2372:461318] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/575CF774-D23D-4697-BD9C-BADA52D039AC/HID%20Product%20Solutions.app/www/product.html
+2015-01-15 19:31:28.146 HID Product Solutions[2693:462215] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Data/Application/C9FA4D2B-BE42-43CE-B3A0-BD7C5B538B54/Library/Cookies/Cookies.binarycookies
+2015-01-15 19:31:28.225 HID Product Solutions[2693:462215] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-15 19:31:28.225 HID Product Solutions[2693:462215] Multi-tasking -> Device: YES, App: YES
+2015-01-15 19:31:28.226 HID Product Solutions[2693:462215] Unlimited access to network resources
+2015-01-15 19:31:28.229 HID Product Solutions[2693:462215] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-15 19:31:28.423 HID Product Solutions[2693:462215] [CDVTimer][splashscreen] 21.858990ms
+2015-01-15 19:31:28.498 HID Product Solutions[2693:462215] [CDVTimer][socialsharing] 74.856997ms
+2015-01-15 19:31:28.499 HID Product Solutions[2693:462215] [CDVTimer][TotalPluginStartup] 97.000003ms
+2015-01-15 19:31:28.543 HID Product Solutions[2693:462215] Resetting plugins due to page load.
+2015-01-15 19:31:28.813 HID Product Solutions[2693:462215] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/42A3B5A3-D8C4-4817-97C7-AB294D6ABF84/HID%20Product%20Solutions.app/www/index.html
+2015-01-15 19:31:29.471 HID Product Solutions[2693:462215] Resetting plugins due to page load.
+2015-01-15 19:31:29.655 HID Product Solutions[2693:462215] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/42A3B5A3-D8C4-4817-97C7-AB294D6ABF84/HID%20Product%20Solutions.app/www/vertical.html#pacs
+2015-01-15 19:31:30.517 HID Product Solutions[2693:462215] Resetting plugins due to page load.
+2015-01-15 19:31:30.797 HID Product Solutions[2693:462215] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/42A3B5A3-D8C4-4817-97C7-AB294D6ABF84/HID%20Product%20Solutions.app/www/product.html
+2015-01-15 19:32:19.382 HID Product Solutions[3031:463269] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Data/Application/1053C752-23DB-4B93-9B79-56EBFFB3644C/Library/Cookies/Cookies.binarycookies
+2015-01-15 19:32:19.460 HID Product Solutions[3031:463269] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-15 19:32:19.460 HID Product Solutions[3031:463269] Multi-tasking -> Device: YES, App: YES
+2015-01-15 19:32:19.462 HID Product Solutions[3031:463269] Unlimited access to network resources
+2015-01-15 19:32:19.464 HID Product Solutions[3031:463269] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-15 19:32:19.661 HID Product Solutions[3031:463269] [CDVTimer][splashscreen] 21.328032ms
+2015-01-15 19:32:19.737 HID Product Solutions[3031:463269] [CDVTimer][socialsharing] 75.504005ms
+2015-01-15 19:32:19.737 HID Product Solutions[3031:463269] [CDVTimer][TotalPluginStartup] 97.116947ms
+2015-01-15 19:32:19.783 HID Product Solutions[3031:463269] Resetting plugins due to page load.
+2015-01-15 19:32:20.050 HID Product Solutions[3031:463269] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/325EA3C6-A007-4486-9BC7-BC44303F829A/HID%20Product%20Solutions.app/www/index.html
+2015-01-15 19:32:21.196 HID Product Solutions[3031:463269] Resetting plugins due to page load.
+2015-01-15 19:32:21.382 HID Product Solutions[3031:463269] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/325EA3C6-A007-4486-9BC7-BC44303F829A/HID%20Product%20Solutions.app/www/vertical.html#pacs
+2015-01-15 19:32:23.219 HID Product Solutions[3031:463269] Resetting plugins due to page load.
+2015-01-15 19:32:23.453 HID Product Solutions[3031:463269] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/325EA3C6-A007-4486-9BC7-BC44303F829A/HID%20Product%20Solutions.app/www/product.html
+2015-01-15 20:30:00.847 HID Product Solutions[3031:463269] Resetting plugins due to page load.
+2015-01-15 20:30:01.209 HID Product Solutions[3031:463269] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/325EA3C6-A007-4486-9BC7-BC44303F829A/HID%20Product%20Solutions.app/www/index.html
+2015-01-15 20:30:03.139 HID Product Solutions[3031:463269] Resetting plugins due to page load.
+2015-01-15 20:30:03.453 HID Product Solutions[3031:463269] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/325EA3C6-A007-4486-9BC7-BC44303F829A/HID%20Product%20Solutions.app/www/vertical.html#pacs
+2015-01-15 20:30:19.853 HID Product Solutions[3031:463269] Resetting plugins due to page load.
+2015-01-15 20:30:20.010 HID Product Solutions[3031:463269] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/325EA3C6-A007-4486-9BC7-BC44303F829A/HID%20Product%20Solutions.app/www/index.html
+2015-01-15 20:30:35.908 HID Product Solutions[3031:463269] Resetting plugins due to page load.
+2015-01-15 20:30:36.223 HID Product Solutions[3031:463269] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/325EA3C6-A007-4486-9BC7-BC44303F829A/HID%20Product%20Solutions.app/www/vertical.html#pacs
+2015-01-15 20:30:54.977 HID Product Solutions[3031:463269] Resetting plugins due to page load.
+2015-01-15 20:30:55.116 HID Product Solutions[3031:463269] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/325EA3C6-A007-4486-9BC7-BC44303F829A/HID%20Product%20Solutions.app/www/index.html
+2015-01-15 20:30:58.278 HID Product Solutions[3031:463269] Resetting plugins due to page load.
+2015-01-15 20:30:58.670 HID Product Solutions[3031:463269] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/325EA3C6-A007-4486-9BC7-BC44303F829A/HID%20Product%20Solutions.app/www/vertical.html#pacs
+2015-01-15 20:31:01.245 HID Product Solutions[3031:463269] Resetting plugins due to page load.
+2015-01-15 20:31:01.372 HID Product Solutions[3031:463269] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/325EA3C6-A007-4486-9BC7-BC44303F829A/HID%20Product%20Solutions.app/www/index.html
+2015-01-15 20:31:02.507 HID Product Solutions[3031:463269] Resetting plugins due to page load.
+2015-01-15 20:31:02.635 HID Product Solutions[3031:463269] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/325EA3C6-A007-4486-9BC7-BC44303F829A/HID%20Product%20Solutions.app/www/vertical.html#logical
+2015-01-15 20:31:09.964 HID Product Solutions[3031:463269] Resetting plugins due to page load.
+2015-01-15 20:31:10.188 HID Product Solutions[3031:463269] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/325EA3C6-A007-4486-9BC7-BC44303F829A/HID%20Product%20Solutions.app/www/product.html
+2015-01-15 20:31:12.840 HID Product Solutions[3031:463269] Resetting plugins due to page load.
+2015-01-15 20:31:12.945 HID Product Solutions[3031:463269] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/325EA3C6-A007-4486-9BC7-BC44303F829A/HID%20Product%20Solutions.app/www/index.html
+2015-01-15 20:31:14.727 HID Product Solutions[3031:463269] Resetting plugins due to page load.
+2015-01-15 20:31:15.104 HID Product Solutions[3031:463269] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/325EA3C6-A007-4486-9BC7-BC44303F829A/HID%20Product%20Solutions.app/www/vertical.html#pacs
+2015-01-15 20:31:18.845 HID Product Solutions[3031:463269] Resetting plugins due to page load.
+2015-01-15 20:31:18.979 HID Product Solutions[3031:463269] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/325EA3C6-A007-4486-9BC7-BC44303F829A/HID%20Product%20Solutions.app/www/index.html
+2015-01-15 20:31:19.745 HID Product Solutions[3031:463269] Resetting plugins due to page load.
+2015-01-15 20:31:19.922 HID Product Solutions[3031:463269] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/325EA3C6-A007-4486-9BC7-BC44303F829A/HID%20Product%20Solutions.app/www/vertical.html#logical
+2015-01-15 20:31:25.933 HID Product Solutions[3031:463269] Resetting plugins due to page load.
+2015-01-15 20:31:26.230 HID Product Solutions[3031:463269] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/325EA3C6-A007-4486-9BC7-BC44303F829A/HID%20Product%20Solutions.app/www/product.html
+2015-01-15 20:32:00.666 HID Product Solutions[3031:463269] Resetting plugins due to page load.
+2015-01-15 20:32:00.795 HID Product Solutions[3031:463269] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/325EA3C6-A007-4486-9BC7-BC44303F829A/HID%20Product%20Solutions.app/www/index.html
+2015-01-15 20:32:01.967 HID Product Solutions[3031:463269] Resetting plugins due to page load.
+2015-01-15 20:32:02.276 HID Product Solutions[3031:463269] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/325EA3C6-A007-4486-9BC7-BC44303F829A/HID%20Product%20Solutions.app/www/vertical.html#pacs
+2015-01-15 20:33:02.516 HID Product Solutions[3031:463269] Resetting plugins due to page load.
+2015-01-15 20:33:02.666 HID Product Solutions[3031:463269] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/325EA3C6-A007-4486-9BC7-BC44303F829A/HID%20Product%20Solutions.app/www/index.html
+2015-01-15 20:33:03.693 HID Product Solutions[3031:463269] Resetting plugins due to page load.
+2015-01-15 20:33:03.978 HID Product Solutions[3031:463269] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/325EA3C6-A007-4486-9BC7-BC44303F829A/HID%20Product%20Solutions.app/www/vertical.html#pacs
+2015-01-15 20:33:07.425 HID Product Solutions[3031:463269] Resetting plugins due to page load.
+2015-01-15 20:33:07.578 HID Product Solutions[3031:463269] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/325EA3C6-A007-4486-9BC7-BC44303F829A/HID%20Product%20Solutions.app/www/index.html
+2015-01-15 20:33:13.850 HID Product Solutions[3031:463269] Resetting plugins due to page load.
+2015-01-15 20:33:14.156 HID Product Solutions[3031:463269] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/325EA3C6-A007-4486-9BC7-BC44303F829A/HID%20Product%20Solutions.app/www/vertical.html#pacs
+2015-01-15 20:33:31.098 HID Product Solutions[3031:463269] Resetting plugins due to page load.
+2015-01-15 20:33:31.400 HID Product Solutions[3031:463269] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/325EA3C6-A007-4486-9BC7-BC44303F829A/HID%20Product%20Solutions.app/www/product.html
+2015-01-15 20:34:15.043 HID Product Solutions[3031:463269] Resetting plugins due to page load.
+2015-01-15 20:34:15.044 HID Product Solutions[3031:463269] Failed to load webpage with error: The requested URL was not found on this server.
+2015-01-15 20:34:19.095 HID Product Solutions[3031:463269] Resetting plugins due to page load.
+2015-01-15 20:34:19.201 HID Product Solutions[3031:463269] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/325EA3C6-A007-4486-9BC7-BC44303F829A/HID%20Product%20Solutions.app/www/index.html
+2015-01-15 20:34:23.214 HID Product Solutions[3031:463269] Resetting plugins due to page load.
+2015-01-15 20:34:23.559 HID Product Solutions[3031:463269] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/325EA3C6-A007-4486-9BC7-BC44303F829A/HID%20Product%20Solutions.app/www/vertical.html#pacs
+2015-01-15 20:34:29.009 HID Product Solutions[3031:463269] Resetting plugins due to page load.
+2015-01-15 20:34:29.143 HID Product Solutions[3031:463269] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/325EA3C6-A007-4486-9BC7-BC44303F829A/HID%20Product%20Solutions.app/www/index.html
+2015-01-15 20:34:34.070 HID Product Solutions[3031:463269] Resetting plugins due to page load.
+2015-01-15 20:34:34.386 HID Product Solutions[3031:463269] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/325EA3C6-A007-4486-9BC7-BC44303F829A/HID%20Product%20Solutions.app/www/vertical.html#pacs
+2015-01-15 20:34:35.682 HID Product Solutions[3031:463269] Resetting plugins due to page load.
+2015-01-15 20:34:35.844 HID Product Solutions[3031:463269] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/325EA3C6-A007-4486-9BC7-BC44303F829A/HID%20Product%20Solutions.app/www/index.html
+2015-01-15 20:34:45.261 HID Product Solutions[3031:463269] Resetting plugins due to page load.
+2015-01-15 20:34:45.570 HID Product Solutions[3031:463269] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/325EA3C6-A007-4486-9BC7-BC44303F829A/HID%20Product%20Solutions.app/www/vertical.html#pacs
+2015-01-15 20:34:47.358 HID Product Solutions[3031:463269] Resetting plugins due to page load.
+2015-01-15 20:34:47.656 HID Product Solutions[3031:463269] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/325EA3C6-A007-4486-9BC7-BC44303F829A/HID%20Product%20Solutions.app/www/product.html
+2015-01-15 20:35:08.641 HID Product Solutions[3031:463269] Resetting plugins due to page load.
+2015-01-15 20:35:08.748 HID Product Solutions[3031:463269] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/325EA3C6-A007-4486-9BC7-BC44303F829A/HID%20Product%20Solutions.app/www/index.html
+2015-01-15 20:35:32.501 HID Product Solutions[3483:469270] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Data/Application/8922D907-BAF6-4A4C-B8B4-5D206D2322EA/Library/Cookies/Cookies.binarycookies
+2015-01-15 20:35:32.590 HID Product Solutions[3483:469270] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-15 20:35:32.590 HID Product Solutions[3483:469270] Multi-tasking -> Device: YES, App: YES
+2015-01-15 20:35:32.591 HID Product Solutions[3483:469270] Unlimited access to network resources
+2015-01-15 20:35:32.594 HID Product Solutions[3483:469270] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-15 20:35:32.832 HID Product Solutions[3483:469270] [CDVTimer][splashscreen] 48.314035ms
+2015-01-15 20:35:32.912 HID Product Solutions[3483:469270] [CDVTimer][socialsharing] 79.092026ms
+2015-01-15 20:35:32.912 HID Product Solutions[3483:469270] [CDVTimer][TotalPluginStartup] 127.685964ms
+2015-01-15 20:35:32.957 HID Product Solutions[3483:469270] Resetting plugins due to page load.
+2015-01-15 20:35:33.226 HID Product Solutions[3483:469270] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/714415AA-4232-47EE-B305-88ACD95F9D8C/HID%20Product%20Solutions.app/www/index.html
+2015-01-15 20:35:35.369 HID Product Solutions[3483:469270] Resetting plugins due to page load.
+2015-01-15 20:35:35.507 HID Product Solutions[3483:469270] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/714415AA-4232-47EE-B305-88ACD95F9D8C/HID%20Product%20Solutions.app/www/vertical.html#pacs
+2015-01-15 20:35:36.914 HID Product Solutions[3483:469270] Resetting plugins due to page load.
+2015-01-15 20:35:37.356 HID Product Solutions[3483:469270] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/714415AA-4232-47EE-B305-88ACD95F9D8C/HID%20Product%20Solutions.app/www/product.html
+2015-01-16 09:27:15.612 HID Product Solutions[4498:490703] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Data/Application/1129CE54-B45B-4094-8284-06E9BCD00D8C/Library/Cookies/Cookies.binarycookies
+2015-01-16 09:27:15.916 HID Product Solutions[4498:490703] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-16 09:27:15.916 HID Product Solutions[4498:490703] Multi-tasking -> Device: YES, App: YES
+2015-01-16 09:27:15.928 HID Product Solutions[4498:490703] Unlimited access to network resources
+2015-01-16 09:27:15.938 HID Product Solutions[4498:490703] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-16 09:27:16.458 HID Product Solutions[4498:490703] [CDVTimer][splashscreen] 143.950045ms
+2015-01-16 09:27:16.565 HID Product Solutions[4498:490703] [CDVTimer][socialsharing] 106.747985ms
+2015-01-16 09:27:16.565 HID Product Solutions[4498:490703] [CDVTimer][TotalPluginStartup] 251.003981ms
+2015-01-16 09:27:16.640 HID Product Solutions[4498:490703] Resetting plugins due to page load.
+2015-01-16 09:27:17.075 HID Product Solutions[4498:490703] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/251CC7D4-AF89-4C77-A4CA-7A49B541B53B/HID%20Product%20Solutions.app/www/index.html
+2015-01-16 09:27:19.153 HID Product Solutions[4498:490703] Resetting plugins due to page load.
+2015-01-16 09:27:19.298 HID Product Solutions[4498:490703] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/251CC7D4-AF89-4C77-A4CA-7A49B541B53B/HID%20Product%20Solutions.app/www/vertical.html#pacs
+2015-01-16 09:27:22.827 HID Product Solutions[4498:490703] Resetting plugins due to page load.
+2015-01-16 09:27:23.069 HID Product Solutions[4498:490703] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/251CC7D4-AF89-4C77-A4CA-7A49B541B53B/HID%20Product%20Solutions.app/www/product.html
+2015-01-16 09:27:40.467 HID Product Solutions[4498:490703] Resetting plugins due to page load.
+2015-01-16 09:27:40.495 HID Product Solutions[4498:490703] Failed to load webpage with error: The requested URL was not found on this server.
+2015-01-16 09:28:43.357 HID Product Solutions[4850:492301] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Data/Application/DC7F64B2-763E-4A2C-99BE-19796C4A75E7/Library/Cookies/Cookies.binarycookies
+2015-01-16 09:28:43.442 HID Product Solutions[4850:492301] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-16 09:28:43.443 HID Product Solutions[4850:492301] Multi-tasking -> Device: YES, App: YES
+2015-01-16 09:28:43.444 HID Product Solutions[4850:492301] Unlimited access to network resources
+2015-01-16 09:28:43.447 HID Product Solutions[4850:492301] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-16 09:28:43.654 HID Product Solutions[4850:492301] [CDVTimer][splashscreen] 25.300980ms
+2015-01-16 09:28:43.732 HID Product Solutions[4850:492301] [CDVTimer][socialsharing] 78.342974ms
+2015-01-16 09:28:43.732 HID Product Solutions[4850:492301] [CDVTimer][TotalPluginStartup] 103.924990ms
+2015-01-16 09:28:43.779 HID Product Solutions[4850:492301] Resetting plugins due to page load.
+2015-01-16 09:28:44.027 HID Product Solutions[4850:492301] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/2ADB285A-B7BC-4E0C-BE9E-0F8C60D35DFF/HID%20Product%20Solutions.app/www/index.html
+2015-01-16 09:28:47.818 HID Product Solutions[4850:492301] Resetting plugins due to page load.
+2015-01-16 09:28:47.988 HID Product Solutions[4850:492301] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/2ADB285A-B7BC-4E0C-BE9E-0F8C60D35DFF/HID%20Product%20Solutions.app/www/vertical.html#pacs
+2015-01-16 09:28:48.964 HID Product Solutions[4850:492301] Resetting plugins due to page load.
+2015-01-16 09:28:49.245 HID Product Solutions[4850:492301] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/2ADB285A-B7BC-4E0C-BE9E-0F8C60D35DFF/HID%20Product%20Solutions.app/www/product.html
+2015-01-16 09:29:11.339 HID Product Solutions[5181:493202] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Data/Application/DB472D8C-1E8D-4807-8DC5-551D8109E3CF/Library/Cookies/Cookies.binarycookies
+2015-01-16 09:29:11.413 HID Product Solutions[5181:493202] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-16 09:29:11.413 HID Product Solutions[5181:493202] Multi-tasking -> Device: YES, App: YES
+2015-01-16 09:29:11.415 HID Product Solutions[5181:493202] Unlimited access to network resources
+2015-01-16 09:29:11.417 HID Product Solutions[5181:493202] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-16 09:29:11.611 HID Product Solutions[5181:493202] [CDVTimer][splashscreen] 21.348953ms
+2015-01-16 09:29:11.688 HID Product Solutions[5181:493202] [CDVTimer][socialsharing] 76.928973ms
+2015-01-16 09:29:11.688 HID Product Solutions[5181:493202] [CDVTimer][TotalPluginStartup] 98.568022ms
+2015-01-16 09:29:11.732 HID Product Solutions[5181:493202] Resetting plugins due to page load.
+2015-01-16 09:29:11.984 HID Product Solutions[5181:493202] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/3E6F979C-A8BB-416F-86CB-78A527031DFE/HID%20Product%20Solutions.app/www/index.html
+2015-01-16 09:29:14.267 HID Product Solutions[5181:493202] Resetting plugins due to page load.
+2015-01-16 09:29:14.430 HID Product Solutions[5181:493202] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/3E6F979C-A8BB-416F-86CB-78A527031DFE/HID%20Product%20Solutions.app/www/vertical.html#pacs
+2015-01-16 09:29:15.398 HID Product Solutions[5181:493202] Resetting plugins due to page load.
+2015-01-16 09:29:15.810 HID Product Solutions[5181:493202] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/3E6F979C-A8BB-416F-86CB-78A527031DFE/HID%20Product%20Solutions.app/www/product.html
+2015-01-16 09:37:02.970 HID Product Solutions[5634:496968] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Data/Application/A3C2E715-09FE-4947-B1D2-50EE9B54D070/Library/Cookies/Cookies.binarycookies
+2015-01-16 09:37:03.054 HID Product Solutions[5634:496968] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-16 09:37:03.054 HID Product Solutions[5634:496968] Multi-tasking -> Device: YES, App: YES
+2015-01-16 09:37:03.055 HID Product Solutions[5634:496968] Unlimited access to network resources
+2015-01-16 09:37:03.058 HID Product Solutions[5634:496968] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-16 09:37:03.334 HID Product Solutions[5634:496968] [CDVTimer][splashscreen] 83.159983ms
+2015-01-16 09:37:03.411 HID Product Solutions[5634:496968] [CDVTimer][socialsharing] 76.978981ms
+2015-01-16 09:37:03.412 HID Product Solutions[5634:496968] [CDVTimer][TotalPluginStartup] 160.435021ms
+2015-01-16 09:37:03.456 HID Product Solutions[5634:496968] Resetting plugins due to page load.
+2015-01-16 09:37:03.722 HID Product Solutions[5634:496968] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/4525C890-CC2E-4F48-B1B5-77B3FAE1CDBB/HID%20Product%20Solutions.app/www/index.html
+2015-01-16 09:37:15.468 HID Product Solutions[5634:496968] Resetting plugins due to page load.
+2015-01-16 09:37:15.617 HID Product Solutions[5634:496968] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/4525C890-CC2E-4F48-B1B5-77B3FAE1CDBB/HID%20Product%20Solutions.app/www/vertical.html#pacs
+2015-01-16 09:37:16.567 HID Product Solutions[5634:496968] Resetting plugins due to page load.
+2015-01-16 09:37:16.778 HID Product Solutions[5634:496968] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/4525C890-CC2E-4F48-B1B5-77B3FAE1CDBB/HID%20Product%20Solutions.app/www/product.html
+2015-01-16 09:37:24.101 HID Product Solutions[5634:496968] Resetting plugins due to page load.
+2015-01-16 09:37:24.102 HID Product Solutions[5634:496968] Failed to load webpage with error: The requested URL was not found on this server.
+2015-01-16 09:37:24.662 HID Product Solutions[5634:496968] Resetting plugins due to page load.
+2015-01-16 09:37:24.663 HID Product Solutions[5634:496968] Failed to load webpage with error: The requested URL was not found on this server.
+2015-01-16 09:39:06.989 HID Product Solutions[8384:501985] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Data/Application/CAED66B1-4477-41E2-BF2F-7EAA619B8030/Library/Cookies/Cookies.binarycookies
+2015-01-16 09:39:07.072 HID Product Solutions[8384:501985] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-16 09:39:07.072 HID Product Solutions[8384:501985] Multi-tasking -> Device: YES, App: YES
+2015-01-16 09:39:07.074 HID Product Solutions[8384:501985] Unlimited access to network resources
+2015-01-16 09:39:07.076 HID Product Solutions[8384:501985] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-16 09:39:07.313 HID Product Solutions[8384:501985] [CDVTimer][splashscreen] 46.622992ms
+2015-01-16 09:39:07.390 HID Product Solutions[8384:501985] [CDVTimer][socialsharing] 76.155007ms
+2015-01-16 09:39:07.390 HID Product Solutions[8384:501985] [CDVTimer][TotalPluginStartup] 123.064995ms
+2015-01-16 09:39:07.437 HID Product Solutions[8384:501985] Resetting plugins due to page load.
+2015-01-16 09:39:07.706 HID Product Solutions[8384:501985] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/52B82146-2123-44D4-AB7D-220C4786FE57/HID%20Product%20Solutions.app/www/index.html
+2015-01-16 09:39:09.058 HID Product Solutions[8384:501985] Resetting plugins due to page load.
+2015-01-16 09:39:09.273 HID Product Solutions[8384:501985] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/52B82146-2123-44D4-AB7D-220C4786FE57/HID%20Product%20Solutions.app/www/vertical.html#pacs
+2015-01-16 09:39:10.228 HID Product Solutions[8384:501985] Resetting plugins due to page load.
+2015-01-16 09:39:10.482 HID Product Solutions[8384:501985] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/52B82146-2123-44D4-AB7D-220C4786FE57/HID%20Product%20Solutions.app/www/product.html
+2015-01-16 09:39:12.228 HID Product Solutions[8384:501985] Resetting plugins due to page load.
+2015-01-16 09:39:12.366 HID Product Solutions[8384:501985] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/52B82146-2123-44D4-AB7D-220C4786FE57/HID%20Product%20Solutions.app/www/index.html
+2015-01-16 09:39:13.236 HID Product Solutions[8384:501985] Resetting plugins due to page load.
+2015-01-16 09:39:13.597 HID Product Solutions[8384:501985] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/52B82146-2123-44D4-AB7D-220C4786FE57/HID%20Product%20Solutions.app/www/vertical.html#pacs
+2015-01-16 09:39:15.876 HID Product Solutions[8384:501985] Resetting plugins due to page load.
+2015-01-16 09:39:16.322 HID Product Solutions[8384:501985] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/52B82146-2123-44D4-AB7D-220C4786FE57/HID%20Product%20Solutions.app/www/product.html
+2015-01-16 09:40:13.088 HID Product Solutions[8746:503285] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Data/Application/D2F201DB-1A89-4D78-9483-3A3B530A1814/Library/Cookies/Cookies.binarycookies
+2015-01-16 09:40:13.166 HID Product Solutions[8746:503285] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-16 09:40:13.166 HID Product Solutions[8746:503285] Multi-tasking -> Device: YES, App: YES
+2015-01-16 09:40:13.168 HID Product Solutions[8746:503285] Unlimited access to network resources
+2015-01-16 09:40:13.170 HID Product Solutions[8746:503285] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-16 09:40:13.364 HID Product Solutions[8746:503285] [CDVTimer][splashscreen] 21.914959ms
+2015-01-16 09:40:13.439 HID Product Solutions[8746:503285] [CDVTimer][socialsharing] 75.483978ms
+2015-01-16 09:40:13.439 HID Product Solutions[8746:503285] [CDVTimer][TotalPluginStartup] 97.685993ms
+2015-01-16 09:40:13.483 HID Product Solutions[8746:503285] Resetting plugins due to page load.
+2015-01-16 09:40:13.739 HID Product Solutions[8746:503285] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/21644985-F3B4-4261-A91F-CA4BD1F04DD3/HID%20Product%20Solutions.app/www/index.html
+2015-01-16 09:40:16.843 HID Product Solutions[8746:503285] Resetting plugins due to page load.
+2015-01-16 09:40:17.023 HID Product Solutions[8746:503285] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/21644985-F3B4-4261-A91F-CA4BD1F04DD3/HID%20Product%20Solutions.app/www/vertical.html#pacs
+2015-01-16 09:40:18.406 HID Product Solutions[8746:503285] Resetting plugins due to page load.
+2015-01-16 09:40:18.662 HID Product Solutions[8746:503285] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/21644985-F3B4-4261-A91F-CA4BD1F04DD3/HID%20Product%20Solutions.app/www/product.html
+2015-01-16 09:40:24.340 HID Product Solutions[8746:503285] Resetting plugins due to page load.
+2015-01-16 09:40:24.498 HID Product Solutions[8746:503285] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/21644985-F3B4-4261-A91F-CA4BD1F04DD3/HID%20Product%20Solutions.app/www/index.html
+2015-01-16 09:40:25.079 HID Product Solutions[8746:503285] Resetting plugins due to page load.
+2015-01-16 09:40:25.440 HID Product Solutions[8746:503285] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/21644985-F3B4-4261-A91F-CA4BD1F04DD3/HID%20Product%20Solutions.app/www/vertical.html#pacs
+2015-01-16 09:40:46.127 HID Product Solutions[8746:503285] Resetting plugins due to page load.
+2015-01-16 09:40:46.360 HID Product Solutions[8746:503285] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/21644985-F3B4-4261-A91F-CA4BD1F04DD3/HID%20Product%20Solutions.app/www/product.html
+2015-01-16 09:41:01.435 HID Product Solutions[8746:503285] Resetting plugins due to page load.
+2015-01-16 09:41:01.587 HID Product Solutions[8746:503285] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/21644985-F3B4-4261-A91F-CA4BD1F04DD3/HID%20Product%20Solutions.app/www/index.html
+2015-01-16 09:41:02.151 HID Product Solutions[8746:503285] Resetting plugins due to page load.
+2015-01-16 09:41:02.525 HID Product Solutions[8746:503285] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/21644985-F3B4-4261-A91F-CA4BD1F04DD3/HID%20Product%20Solutions.app/www/vertical.html#pacs
+2015-01-16 09:43:25.468 HID Product Solutions[8746:503285] Resetting plugins due to page load.
+2015-01-16 09:43:25.778 HID Product Solutions[8746:503285] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/21644985-F3B4-4261-A91F-CA4BD1F04DD3/HID%20Product%20Solutions.app/www/product.html
+2015-01-16 09:43:27.945 HID Product Solutions[8746:503285] Resetting plugins due to page load.
+2015-01-16 09:43:28.100 HID Product Solutions[8746:503285] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/21644985-F3B4-4261-A91F-CA4BD1F04DD3/HID%20Product%20Solutions.app/www/index.html
+2015-01-16 09:46:39.186 HID Product Solutions[9480:515352] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Data/Application/CC3BD5B9-1DCB-4138-8FD0-A028C4E29B23/Library/Cookies/Cookies.binarycookies
+2015-01-16 09:46:39.377 HID Product Solutions[9480:515352] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-16 09:46:39.377 HID Product Solutions[9480:515352] Multi-tasking -> Device: YES, App: YES
+2015-01-16 09:46:39.388 HID Product Solutions[9480:515352] Unlimited access to network resources
+2015-01-16 09:46:39.399 HID Product Solutions[9480:515352] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-16 09:46:39.690 HID Product Solutions[9480:515352] [CDVTimer][splashscreen] 67.023993ms
+2015-01-16 09:46:39.782 HID Product Solutions[9480:515352] [CDVTimer][socialsharing] 91.735959ms
+2015-01-16 09:46:39.782 HID Product Solutions[9480:515352] [CDVTimer][TotalPluginStartup] 159.043968ms
+2015-01-16 09:46:39.832 HID Product Solutions[9480:515352] Resetting plugins due to page load.
+2015-01-16 09:46:40.136 HID Product Solutions[9480:515352] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/3CC6DFBE-72A1-46F9-907F-888CFB9D070D/HID%20Product%20Solutions.app/www/index.html
+2015-01-16 09:46:41.783 HID Product Solutions[9480:515352] Resetting plugins due to page load.
+2015-01-16 09:46:41.973 HID Product Solutions[9480:515352] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/3CC6DFBE-72A1-46F9-907F-888CFB9D070D/HID%20Product%20Solutions.app/www/vertical.html#pacs
+2015-01-16 09:46:43.070 HID Product Solutions[9480:515352] Resetting plugins due to page load.
+2015-01-16 09:46:43.353 HID Product Solutions[9480:515352] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/3CC6DFBE-72A1-46F9-907F-888CFB9D070D/HID%20Product%20Solutions.app/www/product.html
+2015-01-16 09:49:14.311 HID Product Solutions[10026:518203] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Data/Application/2BBF4338-31FA-43A5-9947-DCE9A5FC2322/Library/Cookies/Cookies.binarycookies
+2015-01-16 09:49:14.386 HID Product Solutions[10026:518203] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-16 09:49:14.386 HID Product Solutions[10026:518203] Multi-tasking -> Device: YES, App: YES
+2015-01-16 09:49:14.388 HID Product Solutions[10026:518203] Unlimited access to network resources
+2015-01-16 09:49:14.390 HID Product Solutions[10026:518203] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-16 09:49:14.614 HID Product Solutions[10026:518203] [CDVTimer][splashscreen] 43.779016ms
+2015-01-16 09:49:14.693 HID Product Solutions[10026:518203] [CDVTimer][socialsharing] 79.145968ms
+2015-01-16 09:49:14.693 HID Product Solutions[10026:518203] [CDVTimer][TotalPluginStartup] 123.214960ms
+2015-01-16 09:49:14.738 HID Product Solutions[10026:518203] Resetting plugins due to page load.
+2015-01-16 09:49:15.019 HID Product Solutions[10026:518203] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/1C6E5692-CAC8-4307-970A-312DF4526D11/HID%20Product%20Solutions.app/www/index.html
+2015-01-16 09:49:17.163 HID Product Solutions[10026:518203] Resetting plugins due to page load.
+2015-01-16 09:49:17.342 HID Product Solutions[10026:518203] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/1C6E5692-CAC8-4307-970A-312DF4526D11/HID%20Product%20Solutions.app/www/vertical.html#pacs
+2015-01-16 09:49:18.271 HID Product Solutions[10026:518203] Resetting plugins due to page load.
+2015-01-16 09:49:18.564 HID Product Solutions[10026:518203] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/1C6E5692-CAC8-4307-970A-312DF4526D11/HID%20Product%20Solutions.app/www/product.html
