@@ -1,13 +1,10 @@
 <!DOCTYPE html>
-<html>
+<html lang="en" ng-app="app">
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <title>HID Product slution app</title>
-
-        <meta name="format-detection" content="telephone=no" />
-        <!-- WARNING: for iOS 7, remove the width=device-width and height=device-height attributes. See https://issues.apache.org/jira/browse/CB-4323 -->
-        <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width, height=device-height, target-densitydpi=device-dpi" />
+  
 
 
         <link rel="stylesheet" href="css/normalize.css">
@@ -22,36 +19,33 @@
     </head>
     <body>
 
-    <section class="container product-info">
-
-      <div class="app-page" ng-controller="pluginsController">
-                <ons-button modifier="large--cta" ng-click="openSocialSharing()">Share Datasheet</ons-button>
-             </div>   
-
-            <header>
-              <div class="reset-icon"><a href="index.html"><i class="fa fa-arrow-left"></i></a></div>
-            </header>
+        <ons-toolbar modifier="opacity">
+        <div class="left">
+          <ons-back-button ng-click="goBack()"></ons-back-button>
+        </div>
+          <div class="center"><img src="img/brick.png"</div>
+      </div>
+        </ons-toolbar>
 
 
-            <p id="next_swiper"> <img src="img/arrow-right.png" alt="" /> </p>
-            <p id="previous_swiper" style="display:none;"> <img src="img/arrow-left.png" alt="" /> </p>
-
-
-            <div class="swiper-container product-slider">
+        <section class="container product-info" ng-controller="pluginsController">
+              </div>
+              <div class="swiper-container product-slider">
               <div class="swiper-wrapper">
                 <!-- Content to be inserted here dynamically -->
-              </div>
 
+                 
             </div>
 
+        
+        </div> 
         <div class="">
             <img src="img/bg.png" class="bg">
-        </div> 
-
         </section>
 
-         <!-- Cordova core JS -->
-        <script type="text/javascript" src="cordova.js"></script>
+
+
+
 
         <!-- jquery -->
         <script src="js/vendor/jquery-1.10.2.min.js"></script>
@@ -66,6 +60,7 @@
 
         <!-- plugin and custom js code -->
         <script src="js/main.js"></script>
+        <script src="js/product.js"></script>
 
 
         <!-- page specific logic -->
@@ -84,7 +79,7 @@
                     //run through json array and dump all the elements for the slider
                     $.each( results, function( key, value ) {
                         if( value['vertical'] == $.cookie('verticalcategory') ){
-                            $('.swiper-wrapper').append('<div class="swiper-slide"> <div class="product-slide"> <h1>'+ value['name'] +'</h1> <img src="product-images/'+ value['imagefilename'] +'" alt=""  /> <p>'+ value['description'] +'</p> <div class="datasheet-download-btn"><a href="form.html#'+ value['pdf'] +'" title="">Download datasheet</a></div> </div> </div>'
+                            $('.swiper-wrapper').append('<div class="swiper-slide"> <div class="product-slide"> <h1>'+ value['name'] +'</h1> <img src="product-images/'+ value['imagefilename'] +'" alt=""  /> <p>'+ value['description'] +'</p> <div class="datasheet-download-btn" ng-click="share();">Share Datasheet</a></div> </div> </div>'
                             );                             
                         }
                     });               

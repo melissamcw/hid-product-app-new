@@ -1815,7 +1815,7 @@ section.homepage {
       position: relative;
       text-align: left;
       font-size: 1.1em;
-      height: 100%;
+      height: 110%;
       /*background-image: -webkit-gradient(linear, left bottom, left top, color-stop(0, #05549C), color-stop(1, #6C99C4));*/
       /*background-image: linear-gradient(to top, #05549C 0%, #6C99C4 100%);*/ }
       section.homepage ul#vertical_list li:last-child a img {
@@ -1828,7 +1828,7 @@ section.homepage {
         text-decoration: none;    
         font-family: 'Gotham Light'; }
       section.homepage ul#vertical_list li img {
-        width: 25%;
+        width: 35%;
         display: inline;
         margin: 0 5% 0 -10%; }
   section.homepage #passwordrequest {
