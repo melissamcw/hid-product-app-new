@@ -1879,7 +1879,7 @@ section.vertical {
         color: #000;
         line-height: 1em; }
     section.vertical .product-thumbnails img {
-      width: 100%;
+      width: 85%;
       /*border: 1px solid #05549C;*/
       border-radius: 5px; }
 
@@ -1895,7 +1895,7 @@ section.product-info {
       top: 5%; }
       section.product-info header .vertical-icon i {
         font-size: 2.5em;
-        color: #05549C; }
+        color: #b0b }
   section.product-info h1 {
     font-weight: normal;
     margin: 0.6em 0 0.2em 0;
@@ -1924,9 +1924,6 @@ section.product-info {
       color: #000;
       background-color: #FFF;
       border: 2px solid #05549C;
-      -webkit-border-radius: 10px;
-      -moz-border-radius: 10px;
-      border-radius: 10px; }
       section.product-info .product-slide .datasheet-download-btn a {
         text-decoration: none;
         color: inherit; }
@@ -2037,7 +2034,7 @@ footer {
 /*CUSTOM MM THEME CSS */
 #header {
     position: absolute;
-    z-index: 2;
+    z-index: 1000;
     background: rgb(0, 46, 86);
     top: 0;
     left: 0;
