@@ -1571,10 +1571,11 @@
 
   .reset-icon {
     right: 2% !important;
-    top: 3% !important; }
+    top: -3% !important; }
     .reset-icon i {
       font-size: 2em !important;
-      color: #05549C; }
+      color: #05549C;
+      top: -3% !important;}
 
   #logo {
     width: 40% !important; }
@@ -1843,12 +1844,12 @@ section.vertical {
   section.vertical header {
     width: 100%;
     margin: 0;
-    padding: 0 0 1.2em 0;
+    padding: 0 0 0 0;
     text-align: left; }
     section.vertical header .vertical-icon {
       position: absolute;
       left: 10%;
-      top: 12%;
+      top: 8%;
       float:left; }
       section.vertical header .vertical-icon img {
         width: 19%; }
@@ -1865,10 +1866,10 @@ section.vertical {
   section.vertical .product-thumbnails {
     height: 100%; }
     section.vertical .product-thumbnails div {
-      width: 31%;
-      height: 31%;
+      width: 40%;
+      height: 25%;
       float: left;
-      margin: 1% 2% 0 0; }
+      margin: 1% 2% 1% 0; }
       section.vertical .product-thumbnails div a {
         text-decoration: none; }
       section.vertical .product-thumbnails div p {
@@ -1879,8 +1880,8 @@ section.vertical {
         line-height: 1em; }
     section.vertical .product-thumbnails img {
       width: 100%;
-      border: 1px solid #05549C;
-      border-radius: 10px; }
+      /*border: 1px solid #05549C;*/
+      border-radius: 5px; }
 
 section.product-info {
   height: 100%; }
@@ -2031,3 +2032,55 @@ footer {
     margin-top: 15% !important;
     color: #FFF;
     font-size: 0.7em !important; }
+
+
+/*CUSTOM MM THEME CSS */
+#header {
+    position: absolute;
+    z-index: 2;
+    background: rgb(0, 46, 86);
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 44px;
+    padding: 0;
+}
+
+#header img {
+    position: center;
+    margin-top: -1%;
+}
+
+img.bg {
+  width: 110%;
+  height: 110%;
+  top: -10px;
+  bottom: -10px;
+  left: -10px;
+  right: -10px;
+  position: fixed;
+  z-index: -2;
+}
+.blur {
+  height: 100%;
+  width: 100%!important;
+  z-index: -1;
+  position: absolute;
+  top: 0;
+  filter: blur(5px);
+  -webkit-filter: blur(5px);
+  -moz-filter: blur(5px);
+  -o-filter: blur(5px);
+  -ms-filter: blur(5px);
+  filter: url(#blur);
+  overflow: hidden;
+}
+.products-content h2.product-lines {
+  font-family: 'Gotham Light';
+  font-size: 40px;
+  color: #fff;
+  font-weight: normal;
+  margin: 10px 0 5px 0;
+  letter-spacing: -1px;
+  padding-top: 3%;
+}
