@@ -2036,7 +2036,6 @@ footer {
 /*CUSTOM MM THEME CSS */
 
 #header {
-  display: none;
   position: absolute;
   z-index: 3;
   top: 0;
@@ -2044,7 +2043,7 @@ footer {
   width: 100%;
   height: 44px;
   line-height: 44px;
-  background: red;
+  background: rgba(0, 46, 86, .9);
   padding: 0;
   color: #eee;
   font-size: 20px;
