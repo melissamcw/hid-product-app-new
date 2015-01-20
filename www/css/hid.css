@@ -1589,9 +1589,10 @@
 
   section.vertical {
     z-index: 100 !important;
-    height: 97% !important; }
+    height: 97% !important;
+    -webkit-overflow-scrolling: touch; }
     section.vertical header {
-      padding: 0 0 2em 0 !important;
+      padding: 0 0 1.5em 0 !important;
       position: relative;
       height: 10% !important;
       overflow: auto !important; }
@@ -1803,7 +1804,7 @@ section.homepage {
   section.homepage ul#vertical_list {
     margin: 5% auto 0 auto;
     padding: 0;
-    width: 80%; }
+    width: 90%; }
     section.homepage ul#vertical_list li {
       list-style-type: none;
       padding: 0.5em 0 0.5em 15%;
@@ -1909,14 +1910,28 @@ section.product-info {
     color: #fff;}
   section.product-info .product-slide {
     height: 100% !important;
-    border-bottom: 1px solid black; }
+    /*border-bottom: 1px solid black; */ }
     section.product-info .product-slide img {
       width: 93%;
       margin: 0;
-      border: 1px solid #05549C;
-      -webkit-border-radius: 10px;
-      -moz-border-radius: 10px;
-      border-radius: 10px; }
+      /*border: 1px solid #05549C;*/
+      -webkit-border-radius: 5px;
+      -moz-border-radius: 5px;
+      border-radius: 5px; }
+    section.product-info .product-slide .product-box { 
+      list-style-type: none;
+      padding: 0.5em 0 0.5em 15%;
+      margin: 1em 0;
+      background-color: rgba(255, 255, 255, .40);
+      color: #FFFFFF;
+      -webkit-border-radius: 5px;
+      -moz-border-radius: 5px;
+      border-radius: 5px;
+      z-index: 10 !important;
+      position: relative;
+      text-align: left;
+      font-size: 1.1em;
+      height: 110%; }
     section.product-info .product-slide p {
       font-size: 0.7em; }
     section.product-info .product-slide .datasheet-download-btn {
