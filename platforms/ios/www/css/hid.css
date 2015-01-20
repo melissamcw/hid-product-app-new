@@ -1645,13 +1645,14 @@
         font-size: 1.3em !important; }
       section.product-info .product-slide .datasheet-download-btn {
         width: 30% !important;
+        height: 100% !important;
         font-size: 1em !important;
         color: #000;
-        background-color: #FFF;
+        background-color: transparent;
         border: 2px solid #05549C;
-        -webkit-border-radius: 10px;
-        -moz-border-radius: 10px;
-        border-radius: 10px; }
+        -webkit-border-radius: 5px;
+        -moz-border-radius: 5px;
+        border-radius: 5px; }
         section.product-info .product-slide .datasheet-download-btn a {
           text-decoration: none;
           color: inherit; }
@@ -2032,15 +2033,32 @@ footer {
 
 
 /*CUSTOM MM THEME CSS */
+
 #header {
-    position: absolute;
-    z-index: 1000;
-    background: rgb(0, 46, 86);
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 44px;
-    padding: 0;
+  display: none;
+  position: absolute;
+  z-index: 3;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 44px;
+  line-height: 44px;
+  background: red;
+  padding: 0;
+  color: #eee;
+  font-size: 20px;
+  text-align: center;
+}
+
+.header-blur {
+  position: absolute;
+  z-index: 2;
+  overflow: hidden;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 44px;
+  padding: 0;
 }
 
 #header img {
