@@ -11,7 +11,6 @@ $(document).ready(function() {
 		e.preventDefault();
 	});
 
-
 	$('.reset-icon').click(function(){
 		window.history.back();
 	});
@@ -24,9 +23,9 @@ $(document).ready(function() {
 		window.mySwiper.swipePrev();
 	});
 
-	$('#share').click(function(){
-			window.plugins.socialsharing.share('Here is your PDF file', 'Your PDF', 'www/files/test.pdf');
-		});
+	$('.datasheet-download-btn').click(function(){
+		window.plugins.socialsharing.share('WORKS!, subject, image and link', 'TEST!', 'www.google.nl/images/srpr/logo4w.png', 'www.x-services.nl'); 
+	});
 
 
 

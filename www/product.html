@@ -23,10 +23,14 @@
     <body>
 
       <div id="header"><img src="img/brick.png"></div>
-      <div class="reset-icon" style="top:2%;"><a href="javascript: history.go(-1)"><i class="fa fa-chevron-left"></i></a></div>
+      <div class="reset-icon" style="top:2%;"><a href="javascript: history.go(-1)"><i class="fa fa-chevron-left"></i></a></div><div class="datasheet-download-btn">TEST</div>
         
+        
+
         <section class="container product-info">
+          <div class="datasheet-download-btn">TEST</div>
           <div class="product-box">
+
 
               <div class="swiper-container product-slider">
               <div class="swiper-wrapper">
@@ -39,7 +43,7 @@
         </div>
         
     </div> 
-        
+
             <img src="img/bg.png" class="bg">
         
         </section>
@@ -62,6 +66,8 @@
         <!-- plugin and custom js code -->
         <script src="js/main.js"></script>
         <script src="js/product.js"></script>
+        <script src="js/SocialShare.js"></script>
+        <script src="cordova.js"></script>
 
 
         <!-- page specific logic -->
@@ -80,7 +86,7 @@
                     //run through json array and dump all the elements for the slider
                     $.each( results, function( key, value ) {
                         if( value['vertical'] == $.cookie('verticalcategory') ){
-                            $('.swiper-wrapper').append('<div class="swiper-slide"> <div class="product-slide"> <h1>'+ value['name'] +'</h1> <img src="product-images/'+ value['imagefilename'] +'" alt=""  /> <p>'+ value['description'] +'</p> <div class="datasheet-download-btn" ng-click="share();">Share Datasheet</a></div> </div> </div>'
+                            $('.swiper-wrapper').append('<div class="swiper-slide"> <div class="product-slide"> <h1>'+ value['name'] +'</h1> <img src="product-images/'+ value['imagefilename'] +'" alt=""  /> <p>'+ value['description'] +'</p></div> </div>'
                             );                             
                         }
                     });               
