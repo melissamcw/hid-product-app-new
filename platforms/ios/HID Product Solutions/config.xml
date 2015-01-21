@@ -56,4 +56,5 @@
         <plugin name="EmailComposer" value="EmailComposer" />
         <plugin name="SocialSharing" value="SocialSharing" />
     </plugins>
+    <gap:plugin name="nl.x-services.plugins.socialsharing" source="plugins.cordova.io" />
 </widget>

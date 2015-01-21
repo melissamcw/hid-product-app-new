@@ -182,6 +182,17 @@
               });
             }); 
         -->
+
+        $(document).one('mobileinit', function () {
+ 
+            // Setting #container div as a jqm pageContainer
+            $.mobile.pageContainer = $('section.vertical');
+ 
+            // Setting default page transition to slide
+            $.mobile.defaultPageTransition = 'slide';
+ 
+        });
+ 
         </script>
 
 

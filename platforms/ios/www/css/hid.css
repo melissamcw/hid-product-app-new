@@ -1712,7 +1712,7 @@ body, html {
     width: 100%; }
 
 .vertical .swiper-container, .vertical .swiper-container {
-  left: 1px; }
+  left: 1px;}
 
 .product-info .swiper-container {
   width: 94%;
@@ -1842,7 +1842,10 @@ section.homepage {
       text-decoration: none; }
 
 section.vertical {
-  height: 97% !important; }
+    position: absolute;
+    width: 100%;
+    top: 0;
+    bottom: 0; }
   section.vertical header {
     width: 100%;
     margin: 0;
@@ -1866,7 +1869,7 @@ section.vertical {
     color: #fff;
     position:relative;}
   section.vertical .product-thumbnails {
-    height: 110%;
+    height: 100%;
     margin-left: 10%;}
     section.vertical .product-thumbnails div {
       width: 40%;
@@ -1876,14 +1879,14 @@ section.vertical {
       section.vertical .product-thumbnails div a {
         text-decoration: none; }
       section.vertical .product-thumbnails div p {
-        font-family: 'Gotham Light';
+        font-family: 'Gotham Medium';
         font-size: 0.55em;
-        margin: 5% 0 0 0;
+        margin: -10% 0 0 0;
         color: #002e56;
         line-height: 1.3em;
-        letter-spacing: .025em }
+        letter-spacing: .022em }
     section.vertical .product-thumbnails img {
-      width: 87%;
+      /*width: 87%;*/
       /*border: 1px solid #05549C;*/
       border-radius: 5px;
       background: rgba(255, 255, 255, .7); }
@@ -1918,7 +1921,8 @@ section.product-info {
       /*border: 1px solid #05549C;*/
       -webkit-border-radius: 5px;
       -moz-border-radius: 5px;
-      border-radius: 5px; }
+      border-radius: 5px;
+      background-color: rgba(250, 250, 250, .7); }
     section.product-info .product-slide .product-box { 
       list-style-type: none;
       padding: 0.5em 0 0.5em 15%;

@@ -13,7 +13,7 @@ $(document).ready(function() {
 
 
 	$('.reset-icon').click(function(){
-		window.location = 'index.html';
+		window.history.back();
 	});
 
 	$('#next_swiper').click(function(){
@@ -23,6 +23,10 @@ $(document).ready(function() {
 	$('#previous_swiper').click(function(){
 		window.mySwiper.swipePrev();
 	});
+
+	$('#share').click(function(){
+			window.plugins.socialsharing.share('Here is your PDF file', 'Your PDF', 'www/files/test.pdf');
+		});
 
 
 
