@@ -555,7 +555,7 @@ window.jsonproductsarray = [
 	    "model":"A4AXXxxxxx",
 	    "description":"A versatile, easy to deploy multi-factor authentication appliance ideal for securing employee access to enterprise networks and customer access to online banking.",
 	    "pdf":"http://www.hidglobal.com/sites/hidglobal.com/files/resource_files/identity-assurance-activid-appliance-ds-en.pdf",
-	    "imagefilename":"4TRESS-blue.jpg"
+	    "imagefilename":"4TRESS-blue.png"
 	  },
 	  {
 	    "vertical":"logical",
@@ -595,7 +595,7 @@ window.jsonproductsarray = [
 	    "model":"51975",
 	    "description":"Simple, reliable, affordable entry level solution.",
 	    "pdf":"http://www.hidglobal.com/sites/hidglobal.com/files/resource_files/fargo-c50-priner-ds-en.pdf",
-	    "imagefilename":"C50-F.jpg"
+	    "imagefilename":"C50-F.png"
 	  },
 	  {
 	    "vertical":"card",
@@ -603,7 +603,7 @@ window.jsonproductsarray = [
 	    "model":"53200",
 	    "description":"Extremely cost-effective, total-cost-of ownership card printing solution.",
 	    "pdf":"http://www.hidglobal.com/sites/hidglobal.com/files/resource_files/fargo-dtc1000me-printer-ds-en.pdf",
-	    "imagefilename":"DTC1000Me-F.jpg"
+	    "imagefilename":"DTC1000Me-F.png"
 	  },
 	  {
 	    "vertical":"card",
@@ -611,7 +611,7 @@ window.jsonproductsarray = [
 	    "model":"51000",
 	    "description":"Affordability meets speed, feature-rich options and Peace-of-mind. Best in class.",
 	    "pdf":"http://www.hidglobal.com/sites/hidglobal.com/files/resource_files/fargo-dtc1250e-printer-ds-en.pdf",
-	    "imagefilename":"DTC1250e-F.jpg"
+	    "imagefilename":"DTC1250e-F.png"
 	  },
 	  {
 	    "vertical":"card",
@@ -619,7 +619,7 @@ window.jsonproductsarray = [
 	    "model":"52000",
 	    "description":"Flexible and future proof printer.",
 	    "pdf":"http://www.hidglobal.com/sites/hidglobal.com/files/resource_files/fargo-dtc4250e-printer-ds-en.pdf",
-	    "imagefilename":"DTC4250e-SNGL-F.jpg"
+	    "imagefilename":"DTC4250e-SNGL-F.png"
 	  },
 	  {
 	    "vertical":"card",
@@ -627,7 +627,7 @@ window.jsonproductsarray = [
 	    "model":"55000",
 	    "description":"Throughput cost-per-card, future proof and security feature packed solution.",
 	    "pdf":"http://www.hidglobal.com/sites/hidglobal.com/files/resource_files/fargo-dtc4500e-printer-ds-en.pdf",
-	    "imagefilename":"DTC4500e-dual-dual-F.jpg"
+	    "imagefilename":"DTC4500e-dual-dual-F.png"
 	  },
 	  {
 	    "vertical":"card",
@@ -635,7 +635,7 @@ window.jsonproductsarray = [
 	    "model":"89600",
 	    "description":"Get vibrant, High Definition cards in a reliable and affordable package",
 	    "pdf":"http://www.hidglobal.com/sites/hidglobal.com/files/resource_files/fargo-hdp5000-printer-br-en.pdf",
-	    "imagefilename":"HDP5000-flip-straight_shadow.jpg"
+	    "imagefilename":"HDP5000-flip-straight_shadow.png"
 	  },
 	  {
 	    "vertical":"card",
@@ -643,7 +643,7 @@ window.jsonproductsarray = [
 	    "model":"89380",
 	    "description":"Practical and affordable solution for the instant issuance of a wide range of financial cards",
 	    "pdf":"http://www.hidglobal.com/sites/hidglobal.com/files/resource_files/fargo-hdpiiplus-printer-br-en.pdf",
-	    "imagefilename":"HDP-2-Plus-straight-reflec.jpg"
+	    "imagefilename":"HDP-2-Plus-straight-reflec.png"
 	  },
 	  {
 	    "vertical":"card",
@@ -651,7 +651,7 @@ window.jsonproductsarray = [
 	    "model":"88500",
 	    "description":"Superior industrial ID printer for extended-run, high throughput credential personalization and issuance",
 	    "pdf":"http://www.hidglobal.com/sites/hidglobal.com/files/resource_files/fargo-hdp8500-printer-br-en.pdf",
-	    "imagefilename":"HDP8500-PrinterLaminator_Front_ScreenLit.jpg"
+	    "imagefilename":"HDP8500-PrinterLaminator_Front_ScreenLit.png"
 	  },
 	  {
 	    "vertical":"card",
@@ -659,7 +659,7 @@ window.jsonproductsarray = [
 	    "model":"none",
 	    "description":"Asure ID Enterprise enables multiple workstations to share a common database over a network,whether Asure ID is installed on a PC or a Windows 8 Pro Tablet. ",
 	    "pdf":"http://www.hidglobal.com/sites/hidglobal.com/files/resource_files/asureid-enterprise-software-ds-en.pdf",
-	    "imagefilename":"asure-id-enterprise.jpg"
+	    "imagefilename":"asure-id-enterprise.png"
 	  },
 	  {
 	    "vertical":"card",
@@ -667,7 +667,7 @@ window.jsonproductsarray = [
 	    "model":"none",
 	    "description":"Asure ID Exchange is great for organizations seeking intuitive card design and data management tools for advanced card personalization applications.",
 	    "pdf":"http://www.hidglobal.com/sites/hidglobal.com/files/resource_files/asureid-exchange-software-ds-en.pdf",
-	    "imagefilename":"asure-id-exchange.jpg"
+	    "imagefilename":"asure-id-exchange.png"
 	  },
 	  {
 	    "vertical":"card",
@@ -675,7 +675,7 @@ window.jsonproductsarray = [
 	    "model":"none",
 	    "description":"Asure ID Express is the ideal choice for organizations looking for an affordable and even easy-to-usestand alone photo ID card software.",
 	    "pdf":"http://www.hidglobal.com/sites/hidglobal.com/files/resource_files/asureid-express-software-ds-en.pdf",
-	    "imagefilename":"asure-id-express.jpg"
+	    "imagefilename":"asure-id-express.png"
 	  },
 	  {
 	    "vertical":"card",
@@ -683,7 +683,7 @@ window.jsonproductsarray = [
 	    "model":"none",
 	    "description":"Asure ID Solo is the perfect entry-level card personalization software, it is Easy-to-use as well as easy to learn.",
 	    "pdf":"http://www.hidglobal.com/sites/hidglobal.com/files/resource_files/asureid-solo-software-ds-en.pdf",
-	    "imagefilename":"asure-id-solo.jpg"
+	    "imagefilename":"asure-id-solo.png"
 	  },
 	  {
 	    "vertical":"card",
@@ -691,7 +691,7 @@ window.jsonproductsarray = [
 	    "model":"none",
 	    "description":"Enterprise-class solution for visitor registration,\nbadge printing and management of assets and packages Enterprise-class solution for visitor registration,\nbadge printing and management of assets and packages ",
 	    "pdf":"http://www.hidglobal.com/sites/hidglobal.com/files/resource_files/el-secure-visitor-mgmt-10-software-ds-en.pdf",
-	    "imagefilename":"easylobby-dvd-case-mockup.jpg"
+	    "imagefilename":"easylobby-dvd-case-mockup.png"
 	  },
 	  {
 	    "vertical":"card",
@@ -699,7 +699,7 @@ window.jsonproductsarray = [
 	    "model":"none",
 	    "description":"Web-based application enables authorized employees\nor tenants to pre-register visitors online.Web-based application enables authorized employees\nor tenants to pre-register visitors online.",
 	    "pdf":"http://www.hidglobal.com/sites/hidglobal.com/files/resource_files/el-e-advance-visitor-mgmt-software-ds-en.pdf",
-	    "imagefilename":"easylobby-dvd-case-mockup.jpg"
+	    "imagefilename":"easylobby-dvd-case-mockup.png"
 	  },
 	  {
 	    "vertical":"card",
@@ -707,7 +707,7 @@ window.jsonproductsarray = [
 	    "model":"none",
 	    "description":"Visitor self-registration on tablet computers.",
 	    "pdf":"http://www.hidglobal.com/sites/hidglobal.com/files/resource_files/el-e-kiosk-visitor-mgmt-software-ds-en.pdf",
-	    "imagefilename":"easylobby-dvd-case-mockup.jpg"
+	    "imagefilename":"easylobby-dvd-case-mockup.png"
 	  }
 	];
 
