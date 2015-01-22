@@ -1591,7 +1591,7 @@
 
   section.vertical {
     z-index: 100 !important;
-    height: 97% !important;
+    height: 100% !important;
     -webkit-overflow-scrolling: touch; }
     section.vertical header {
       padding: 0 0 1.5em 0 !important;
@@ -1873,8 +1873,8 @@ section.vertical {
     color: #fff;}
   section.vertical .product-thumbnails {
     height: 100%;
-    margin-left: 10%;
-    margin-right: -20%;
+    margin-left: 2%;
+    margin-right: -31%;
     float: left;}
     section.vertical .product-thumbnails div {
       width: 40%;
