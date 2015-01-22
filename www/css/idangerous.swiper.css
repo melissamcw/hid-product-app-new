@@ -19,7 +19,8 @@ Basic Swiper Styles
 .swiper-container {
 	/*margin:0 auto;*/
 	position:relative;
-	overflow:scroll;
+	overflow-y:auto;
+	overflow-x: hidden;
 	-webkit-backface-visibility:hidden;
 	-moz-backface-visibility:hidden;
 	-ms-backface-visibility:hidden;

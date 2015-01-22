@@ -1845,7 +1845,7 @@ section.homepage {
 section.vertical {
     position: absolute;
     width: 100%;
-    top: 0;
+    top: -10%;
     bottom: 0; }
   section.vertical header {
     width: 100%;
@@ -1854,9 +1854,10 @@ section.vertical {
     text-align: left; }
     section.vertical header .vertical-icon {
       position: absolute;
-      left: 6%;
-      top: 10%;
-      float:left; }
+      left: 10%;
+      top: 15%;
+      float:left;
+      margin-bottom: 2%; }
       section.vertical header .vertical-icon img {
         width: 19%; }
   section.vertical h1 {
@@ -1867,8 +1868,7 @@ section.vertical {
     text-align: left;
     line-height: 1em;
     font-size: 1.7em; 
-    color: #fff;
-    position:relative;}
+    color: #fff;}
   section.vertical .product-thumbnails {
     height: 100%;
     margin-left: 10%;
