@@ -35,6 +35,13 @@ module.exports = [
         "clobbers": [
             "navigator.splashscreen"
         ]
+    },
+    {
+        "file": "plugins/org.apache.cordova.statusbar/www/statusbar.js",
+        "id": "org.apache.cordova.statusbar.statusbar",
+        "clobbers": [
+            "window.StatusBar"
+        ]
     }
 ];
 module.exports.metadata = 
@@ -44,7 +51,8 @@ module.exports.metadata =
     "de.appplant.cordova.plugin.email-composer": "0.8.2dev",
     "nl.x-services.plugins.socialsharing": "4.3.12",
     "org.apache.cordova.inappbrowser": "0.5.4",
-    "org.apache.cordova.splashscreen": "0.3.5"
+    "org.apache.cordova.splashscreen": "0.3.5",
+    "org.apache.cordova.statusbar": "0.1.9"
 }
 // BOTTOM OF METADATA
 });

@@ -47,6 +47,7 @@
 		E1B2C9E06CF2400C80A26C97 /* Social.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 88D84F9A654F44179EA30B09 /* Social.framework */; settings = {ATTRIBUTES = (Weak, ); }; };
 		8CB57E59AD744B7AB06E7C4B /* CDVInAppBrowser.m in Sources */ = {isa = PBXBuildFile; fileRef = 34594449452A451B92FC8EFE /* CDVInAppBrowser.m */; };
 		703840A908D348C38F727928 /* CDVSplashScreen.m in Sources */ = {isa = PBXBuildFile; fileRef = F997D0246E7A4E2487F28909 /* CDVSplashScreen.m */; };
+		EC1713540BBE4424ADB09663 /* CDVStatusBar.m in Sources */ = {isa = PBXBuildFile; fileRef = 50226EED53D74D2FB4E87F04 /* CDVStatusBar.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -125,6 +126,8 @@
 		E8099394A17146C49010F8DA /* CDVInAppBrowser.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "CDVInAppBrowser.h"; path = "org.apache.cordova.inappbrowser/CDVInAppBrowser.h"; sourceTree = "<group>"; fileEncoding = 4; };
 		F997D0246E7A4E2487F28909 /* CDVSplashScreen.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "CDVSplashScreen.m"; path = "org.apache.cordova.splashscreen/CDVSplashScreen.m"; sourceTree = "<group>"; fileEncoding = 4; };
 		81409642871F44609BD4C805 /* CDVSplashScreen.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "CDVSplashScreen.h"; path = "org.apache.cordova.splashscreen/CDVSplashScreen.h"; sourceTree = "<group>"; fileEncoding = 4; };
+		50226EED53D74D2FB4E87F04 /* CDVStatusBar.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "CDVStatusBar.m"; path = "org.apache.cordova.statusbar/CDVStatusBar.m"; sourceTree = "<group>"; fileEncoding = 4; };
+		19CBEB7F752D4CA090EBB018 /* CDVStatusBar.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "CDVStatusBar.h"; path = "org.apache.cordova.statusbar/CDVStatusBar.h"; sourceTree = "<group>"; fileEncoding = 4; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -238,6 +241,8 @@
 				E8099394A17146C49010F8DA /* CDVInAppBrowser.h */,
 				F997D0246E7A4E2487F28909 /* CDVSplashScreen.m */,
 				81409642871F44609BD4C805 /* CDVSplashScreen.h */,
+				50226EED53D74D2FB4E87F04 /* CDVStatusBar.m */,
+				19CBEB7F752D4CA090EBB018 /* CDVStatusBar.h */,
 			);
 			name = Plugins;
 			path = "HID Product Solutions/Plugins";
@@ -428,6 +433,7 @@
 				734121CD88F84964B4C65C4E /* SocialSharing.m in Sources */,
 				8CB57E59AD744B7AB06E7C4B /* CDVInAppBrowser.m in Sources */,
 				703840A908D348C38F727928 /* CDVSplashScreen.m in Sources */,
+				EC1713540BBE4424ADB09663 /* CDVStatusBar.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
