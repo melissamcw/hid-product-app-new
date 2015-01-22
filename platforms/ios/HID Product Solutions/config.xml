@@ -54,7 +54,7 @@
     <icon src="www/res/icon.png" />
     <preference name="Fullscreen" value="true" />
     <preference name="SplashScreen" value="screen" />
-    <preference name="SplashScreenDelay" value="10000" />
+    <preference name="SplashScreenDelay" value="5000" />
     <preference name="DisallowOverscroll" value="true" />
     <preference name="webviewbounce" value="false" />
     <preference name="Orientation" value="portrait" />
