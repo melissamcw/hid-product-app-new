@@ -1698,7 +1698,7 @@ html {
 
 body, html {
   font-family: 'Gotham Medium';
-  padding: 0% 2.5% 0 2.5%;
+  padding: 0% 2.5% 0 0;
   text-align: center;
   overflow: hidden;
   height: 100%; }
