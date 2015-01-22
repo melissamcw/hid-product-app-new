@@ -1779,7 +1779,7 @@ p#previous_swiper {
   margin: 0 auto; }
 
 .reset-icon {
-  position: absolute;
+  position: fixed;
   left: 2%;
   top: 4.5%;
   cursor: pointer;
@@ -2059,7 +2059,7 @@ footer {
 /*CUSTOM MM THEME CSS */
 
 #header {
-  position: absolute;
+  position: fixed;
   z-index: 3;
   top: 0;
   left: 0;
