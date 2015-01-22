@@ -61,6 +61,8 @@ Basic Swiper Styles
 	-webkit-box-sizing: content-box;
 	-moz-box-sizing: content-box;
 	box-sizing: content-box;
+	height: auto;
+
 }
 .swiper-free-mode > .swiper-wrapper {
 	-webkit-transition-timing-function: ease-out;
