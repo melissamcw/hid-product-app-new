@@ -24,13 +24,13 @@
 
       <div id="header"><img src="img/brick.png"></div>
       <div class="reset-icon" style="top:2%;"><a href="javascript: history.go(-1)"><i class="fa fa-chevron-left"></i></a></div>
-        
-        <header>
-        <div class="datasheet-download-btn">TEST</div>
-        </header>
 
         <section class="container product-info">
+          <div class="datasheet-download-btn" style="margin-top: 50px;">Download Datasheet</div>
+
           <div class="product-box">
+
+
 
 
               <div class="swiper-container product-slider">
@@ -43,6 +43,7 @@
 
         </div>
         
+
     </div> 
 
             <img src="img/bg.png" class="bg">
@@ -87,7 +88,7 @@
                     //run through json array and dump all the elements for the slider
                     $.each( results, function( key, value ) {
                         if( value['vertical'] == $.cookie('verticalcategory') ){
-                            $('.swiper-wrapper').append('<div class="swiper-slide"> <div class="product-slide"> <h1>'+ value['name'] +'</h1> <img src="product-images/'+ value['imagefilename'] +'" alt=""  /> <p>'+ value['description'] +'</p><div class="datasheet-download-btn"><a href="form.html#'+ value['pdf'] +'" title="">Download Datasheet</a></div></div></div>'
+                            $('.swiper-wrapper').append('<div class="swiper-slide"> <div class="product-slide"> <h1>'+ value['name'] +'</h1> <img src="product-images/'+ value['imagefilename'] +'" alt=""  /> <p>'+ value['description'] +'</p> <div class="datasheet-download-btn"><a href="'+ value['pdf'] +'" title="">Download Datasheet</a></div></div></div>'
                             );                             
                         }
                     });               

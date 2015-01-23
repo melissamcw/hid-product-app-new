@@ -24,7 +24,7 @@ $(document).ready(function() {
 	});
 
 	$('.datasheet-download-btn').click(function(){
-		window.plugins.socialsharing.share('WORKS!, subject, image and link', 'TEST!', 'www.google.nl/images/srpr/logo4w.png', 'www.x-services.nl'); 
+		window.plugins.socialsharing.share('WORKS!, subject, image and link', 'TEST!', 'www.google.nl/images/srpr/logo4w.png', '"'+ value['pdf'] +'" title=""'); 
 	});
 
 
