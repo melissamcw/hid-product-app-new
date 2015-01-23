@@ -1,5 +1,4 @@
- <script type="text/javascript">
-            $(document).ready(function() {
+$(document).ready(function() {
 
               //store hash value for querying json array
               window.hashvalue = window.localStorage.getItem("productIndexSelected");
@@ -45,4 +44,3 @@
 
 
             }); 
-    </script>

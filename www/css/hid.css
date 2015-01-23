@@ -1874,7 +1874,7 @@ section.vertical {
   section.vertical .product-thumbnails {
     height: 100%;
     margin-left: 2%;
-    margin-right: -31%;
+    margin-right: -10%;
     float: left;}
     section.vertical .product-thumbnails div {
       width: 48%;
@@ -1918,13 +1918,16 @@ section.product-info {
         font-size: 2.5em;
         color: #b0b }
   section.product-info h1 {
+    font-family: 'Gotham Medium';
+    text-transform: uppercase;
+    letter-spacing: .005em;
     font-weight: normal;
     margin: 4em 0 0.2em 0;
     padding: 0 0 0 0.7em;
     text-align: center;
     line-height: 1em;
     font-size: 1em; 
-    color: #fff;}
+    color: #002e56;}
   section.product-info .product-slide {
     height: 100% !important;
     /*border-bottom: 1px solid black; */ }
