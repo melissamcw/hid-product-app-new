@@ -27,8 +27,6 @@ $(document).ready(function() {
 		window.plugins.socialsharing.share('WORKS!, subject, image and link', 'TEST!', 'www.google.nl/images/srpr/logo4w.png', '"'+ value['pdf'] +'" title=""'); 
 	});
 
-
-
 	// PDF Form logic below
 	$('#pdf_form').submit(function(e){
 		
