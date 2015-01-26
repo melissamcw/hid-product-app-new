@@ -6363,3 +6363,8 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 2015-01-26 13:55:42.768 HID Product Solutions[55699:3040612] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/1FCD7B06-2F52-4356-9129-29A4BF22B34D/HID%20Product%20Solutions.app/www/index.html
 2015-01-26 13:55:44.145 HID Product Solutions[55699:3040612] Resetting plugins due to page load.
 2015-01-26 13:55:44.603 HID Product Solutions[55699:3040612] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/1FCD7B06-2F52-4356-9129-29A4BF22B34D/HID%20Product%20Solutions.app/www/vertical.html#logical
+2015-01-26 14:42:11.019 HID Product Solutions[55699:3040612] Resetting plugins due to page load.
+2015-01-26 14:42:11.571 HID Product Solutions[55699:3040612] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/1FCD7B06-2F52-4356-9129-29A4BF22B34D/HID%20Product%20Solutions.app/www/index.html
+2015-01-26 14:42:15.582 HID Product Solutions[55699:3040612] Resetting plugins due to page load.
+2015-01-26 14:42:15.806 HID Product Solutions[55699:3040612] THREAD WARNING: ['StatusBar'] took '15.890137' ms. Plugin should use a background thread.
+2015-01-26 14:42:18.133 HID Product Solutions[55699:3040612] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/1FCD7B06-2F52-4356-9129-29A4BF22B34D/HID%20Product%20Solutions.app/www/vertical.html#logical
