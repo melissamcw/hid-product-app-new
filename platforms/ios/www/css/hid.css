@@ -1892,7 +1892,7 @@ section.vertical {
         letter-spacing: .022em; 
         padding-bottom: 12%;
         padding-left: 2%;
-        /*max-width: 90%;*/
+        width: 90%;
         text-align: center;}
     section.vertical .product-thumbnails img {
       width: 87%;
