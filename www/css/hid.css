@@ -1856,8 +1856,8 @@ section.vertical {
     text-align: left; }
     section.vertical header .vertical-icon {
       position: absolute;
-      left: 10%;
-      top: 15%;
+      left: 15%;
+      top: 85px;
       float:left;
       margin-bottom: 2%; }
       section.vertical header .vertical-icon img {
@@ -1865,8 +1865,8 @@ section.vertical {
   section.vertical h1 {
     font-family: 'Gotham Light';
     font-weight: lighter;
-    margin: 2em 0 2em 2.5em;
-    padding: 0 0 0 0;
+    margin: 2em 0 0 2.5em;
+    padding: 38px 0 0 0;
     text-align: center;
     line-height: 1em;
     font-size: 1.7em; 
