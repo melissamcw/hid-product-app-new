@@ -124,7 +124,7 @@ window.jsonproductsarray = [
 	    "model":"none",
 	    "description":"iCLASS SE Decor Readers are compact and stylish smart card designed to meet architectural and aesthetic requirements.",
 	    "pdf":"http://www.hidglobal.com/sites/hidglobal.com/files/resource_files/iclass-se-decor-reader-ds-en.pdf",
-	    "imagefilename":"decor-reader-12-2014.jpg"
+	    "imagefilename":"http://www.hidglobal.com/sites/hidglobal.com/files/styles/masthead/public/iclass-se-arch-rdr-gr.png"
 	  },
 	  {
 	    "vertical":"pacs",
@@ -132,7 +132,7 @@ window.jsonproductsarray = [
 	    "model":"none",
 	    "description":"iCLASS SE readers are part of HID Global's iCLASS SE platform for adaptability, interoperability, and higher security, ideal for new and existing installations.",
 	    "pdf":"http://www.hidglobal.com/sites/hidglobal.com/files/resource_files/iclass-se-readers-ds-en.pdf",
-	    "imagefilename":"iclass-se-family-readers-color-bars.jpg"
+	    "imagefilename":"http://www.hidglobal.com/sites/hidglobal.com/files/iclass-se-platform.png"
 	  },
 	  {
 	    "vertical":"pacs",
@@ -148,7 +148,7 @@ window.jsonproductsarray = [
 	    "model":"SE RP15",
 	    "description":"Mini-Mullion, 13.56 MHz Multi-Technology iCLASS, iCLASS Seos & 125 kHz HID Prox, AWID, EM4102 or Indala reader",
 	    "pdf":"http://www.hidglobal.com/sites/hidglobal.com/files/resource_files/multiclass-se-readers-ds-en.pdf",
-	    "imagefilename":"multiclass-se-RP15_blk.jpg"
+	    "imagefilename":"http://www.hidglobal.com/sites/hidglobal.com/files/rp15_blk_6145_6143_6144_3.png"
 	  },
 	  {
 	    "vertical":"pacs",
@@ -164,7 +164,7 @@ window.jsonproductsarray = [
 	    "model":"SE RP40",
 	    "description":"Wall Switch, 13.56 MHz Multi-Technology iCLASS, iCLASS Seos & 125 kHz HID Prox, AWID, EM4102 or Indala reader",
 	    "pdf":"http://www.hidglobal.com/sites/hidglobal.com/files/resource_files/multiclass-se-readers-ds-en.pdf",
-	    "imagefilename":"multiclass-se-RP40_blk.jpg"
+	    "imagefilename":"http://www.hidglobal.com/sites/hidglobal.com/files/rp40_blk_6125_6123_6124_3.png"
 	  },
 	  {
 	    "vertical":"pacs",
@@ -172,55 +172,16 @@ window.jsonproductsarray = [
 	    "model":"SE RPK40",
 	    "description":"Wall Switch, 13.56 MHz Multi-Technology iCLASS, iCLASS Seos & 125 kHz HID Prox, AWID, EM4102 or Indala reader with keypad",
 	    "pdf":"http://www.hidglobal.com/sites/hidglobal.com/files/resource_files/multiclass-se-readers-ds-en.pdf",
-	    "imagefilename":"multiclass-se-RPK40.jpg"
+	    "imagefilename":"http://www.hidglobal.com/sites/hidglobal.com/files/rpk40_blk_6136_6133_6134_2.png"
 	  },
-	  {
-	    "vertical":"pacs",
-	    "name":"multiCLASS Mini-Mullion Reader",
-	    "model":"RP10",
-	    "description":"Mullion, 13.56 MHz Multi-Technology iCLASS & 125 kHz HID Prox or Indala reader",
-	    "pdf":"http://www.hidglobal.com/sites/hidglobal.com/files/resource_files/multiclass-se-readers-ds-en.pdf",
-	    "imagefilename":"multiclass-se-RP10_blk.jpg"
-	  },
-	  {
-	    "vertical":"pacs",
-	    "name":"multiCLASS Mullion Reader",
-	    "model":"RP15",
-	    "description":"Mini-Mullion, 13.56 MHz Multi-Technology iCLASS & 125 kHz HID Prox or Indala reader",
-	    "pdf":"http://www.hidglobal.com/sites/hidglobal.com/files/resource_files/multiclass-se-readers-ds-en.pdf",
-	    "imagefilename":"multiclass-se-RP15_blk.jpg"
-	  },
-	  {
-	    "vertical":"pacs",
-	    "name":"multiCLASS EU Square Reader",
-	    "model":"RP30",
-	    "description":"EU Square (60mm), 13.56 MHz Multi-Technology iCLASS & 125 kHz HID Prox or Indala reader",
-	    "pdf":"http://www.hidglobal.com/sites/hidglobal.com/files/resource_files/multiclass-se-readers-ds-en.pdf",
-	    "imagefilename":"multiclass-se-RP30_blk.jpg"
-	  },
-	  {
-	    "vertical":"pacs",
-	    "name":"multiCLASS Wall Switch Reader",
-	    "model":"RP40",
-	    "description":"Wall Switch, 13.56 MHz Multi-Technology iCLASS & 125 kHz HID Prox or Indala reader",
-	    "pdf":"http://www.hidglobal.com/sites/hidglobal.com/files/resource_files/multiclass-se-readers-ds-en.pdf",
-	    "imagefilename":"multiclass-se-RP40_blk.jpg"
-	  },
-	  {
-	    "vertical":"pacs",
-	    "name":"multiCLASS Wall Switch Keypad Reader",
-	    "model":"RPK40",
-	    "description":"Wall Switch, 13.56 MHz Multi-Technology iCLASS & 125 kHz HID Prox or Indala reader with keypad",
-	    "pdf":"http://www.hidglobal.com/sites/hidglobal.com/files/resource_files/multiclass-se-readers-ds-en.pdf",
-	    "imagefilename":"multiclass-se-RPK40.jpg"
-	  },
+	  
 	  {
 	    "vertical":"pacs",
 	    "name":"multiCLASS Magstripe Wall Switch Reader",
 	    "model":"RMP40",
 	    "description":"Wall Switch, 13.56 MHz Multi-Technology iCLASS reader with magstripe",
 	    "pdf":"http://www.hidglobal.com/sites/hidglobal.com/files/resource_files/multiclass-magstripe-reader-ds-en.pdf",
-	    "imagefilename":"multiclass-se-magstripe-RMP40.jpg"
+	    "imagefilename":"http://www.hidglobal.com/sites/hidglobal.com/files/rm40-magstripe_1.png"
 	  },
 	  {
 	    "vertical":"pacs",
@@ -228,7 +189,7 @@ window.jsonproductsarray = [
 	    "model":"6005",
 	    "description":"Mini-mullion, 125 kHz HID Prox reader",
 	    "pdf":"http://www.hidglobal.com/sites/hidglobal.com/files/resource_files/prox-proxpoint-plus-reader-ds-en.pdf",
-	    "imagefilename":"proxpointplus_blk_6005_6008.jpg"
+	    "imagefilename":"http://www.hidglobal.com/sites/hidglobal.com/files/proxpointplus_blk_6005_6008.png"
 	  },
 	  {
 	    "vertical":"pacs",
@@ -236,7 +197,7 @@ window.jsonproductsarray = [
 	    "model":"5365",
 	    "description":"Mullion, 125 kHz HID Prox reader",
 	    "pdf":"http://www.hidglobal.com/sites/hidglobal.com/files/resource_files/prox-miniprox-reader-ds-en.pdf",
-	    "imagefilename":"miniprox_blk.jpg"
+	    "imagefilename":"http://www.hidglobal.com/sites/hidglobal.com/files/miniprox_blk.png"
 	  },
 	  {
 	    "vertical":"pacs",
@@ -244,7 +205,7 @@ window.jsonproductsarray = [
 	    "model":"5395",
 	    "description":"Wall switch, 125 kHz HID Prox reader",
 	    "pdf":"http://www.hidglobal.com/sites/hidglobal.com/files/resource_files/prox-thinline-ii-reader-ds-en.pdf",
-	    "imagefilename":"thinline_blk.jpg"
+	    "imagefilename":"http://www.hidglobal.com/sites/hidglobal.com/files/thinline-classic-straight.png"
 	  },
 	  {
 	    "vertical":"pacs",
@@ -252,7 +213,7 @@ window.jsonproductsarray = [
 	    "model":"5355",
 	    "description":"Medium Range, 125 kHz HID Prox reader",
 	    "pdf":"http://www.hidglobal.com/sites/hidglobal.com/files/resource_files/prox-proxpro-reader-ds-en.pdf",
-	    "imagefilename":"proxproII_blk_5455_5458.jpg"
+	    "imagefilename":"http://www.hidglobal.com/sites/hidglobal.com/files/proxpro_blk_5355_5352_5358.png"
 	  },
 	  {
 	    "vertical":"pacs",
@@ -260,7 +221,7 @@ window.jsonproductsarray = [
 	    "model":"5455",
 	    "description":"Medium Range, 125 kHz HID Prox reader",
 	    "pdf":"http://www.hidglobal.com/sites/hidglobal.com/files/resource_files/prox-proxpro-ii-reader-ds-en.pdf",
-	    "imagefilename":"proxproII_blk_5455_5458.jpg"
+	    "imagefilename":"http://www.hidglobal.com/sites/hidglobal.com/files/proxproii_blk_5455_5458.png"
 	  },
 	  {
 	    "vertical":"pacs",
@@ -268,7 +229,7 @@ window.jsonproductsarray = [
 	    "model":"5355",
 	    "description":"Medium Range, 125 kHz HID Prox reader with keypad",
 	    "pdf":"http://www.hidglobal.com/sites/hidglobal.com/files/resource_files/prox-proxpro-reader-ds-en.pdf",
-	    "imagefilename":"proxpro_keypad_blk_5355_5352_5358.jpg"
+	    "imagefilename":"http://www.hidglobal.com/sites/hidglobal.com/files/proxpro_keypad_blk_5355_5352_5358.png"
 	  },
 	  {
 	    "vertical":"pacs",
@@ -284,7 +245,7 @@ window.jsonproductsarray = [
 	    "model":"5375",
 	    "description":"Long Range, 125 kHz HID Prox reader",
 	    "pdf":"http://www.hidglobal.com/sites/hidglobal.com/files/resource_files/prox-maxiprox-reader-ds-en.pdf",
-	    "imagefilename":"maxiprox_5375.jpg"
+	    "imagefilename":"http://www.hidglobal.com/sites/hidglobal.com/files/maxiprox_5375.png"
 	  },
 	  {
 	    "vertical":"pacs",
@@ -292,7 +253,7 @@ window.jsonproductsarray = [
 	    "model":"5405",
 	    "description":"EU Square, 125 kHz HID Prox reader",
 	    "pdf":"http://www.hidglobal.com/sites/hidglobal.com/files/resource_files/prox80_ds_en.pdf",
-	    "imagefilename":"Prox80-5405-reader-black.jpg"
+	    "imagefilename":"http://www.hidglobal.com/sites/hidglobal.com/files/prox80_5405_wht_.png"
 	  },	  
 	  {
 	    "vertical":"pacs",
@@ -300,15 +261,7 @@ window.jsonproductsarray = [
 	    "model":"R10-H",
 	    "description":"Mini-Mullion PKI-Based FIPS-201 Credential Compatible contact / contactless reader.  Strong authentication when used with pivCLASS PAM.",
 	    "pdf":"http://www.hidglobal.com/sites/hidglobal.com/files/resource_files/pivclass-fips-controlled-readers-ds-en.pdf",
-	    "imagefilename":"pivclass-R10-H.jpg"
-	  },
-	  {
-	    "vertical":"pacs",
-	    "name":"pivCLASS Prox Mini-Mullion Reader",
-	    "model":"RP10-H",
-	    "description":"Mini-Mullion PKI-Based FIPS-201 Credential Compatible and 125 kHz HID Prox contact / contactless reader.  Strong authentication when used with pivCLASS PAM.",
-	    "pdf":"http://www.hidglobal.com/sites/hidglobal.com/files/resource_files/pivclass-fips-controlled-readers-ds-en.pdf",
-	    "imagefilename":"pivclass-R10-H.jpg"
+	    "imagefilename":"http://www.hidglobal.com/sites/hidglobal.com/files/r10_blk_6100_6108_6109_1.png"
 	  },
 	  {
 	    "vertical":"pacs",
@@ -316,23 +269,7 @@ window.jsonproductsarray = [
 	    "model":"R15-H",
 	    "description":"Mullion PKI-Based FIPS-201 Credential Compatible contact / contactless reader.  Strong authentication when used with pivCLASS PAM.",
 	    "pdf":"http://www.hidglobal.com/sites/hidglobal.com/files/resource_files/pivclass-fips-controlled-readers-ds-en.pdf",
-	    "imagefilename":"pivclass-R15-H.jpg"
-	  },
-	  {
-	    "vertical":"pacs",
-	    "name":"pivCLASS Prox Mullion Reader",
-	    "model":"RP15-H",
-	    "description":"Mullion PKI-Based FIPS-201 Credential Compatible and 125 kHz HID Prox contact / contactless reader.  Strong authentication when used with pivCLASS PAM.",
-	    "pdf":"http://www.hidglobal.com/sites/hidglobal.com/files/resource_files/pivclass-fips-controlled-readers-ds-en.pdf",
-	    "imagefilename":"pivclass-R15-H.jpg"
-	  },
-	  {
-	    "vertical":"pacs",
-	    "name":"pivCLASS Wall Switch Reader",
-	    "model":"R40-H",
-	    "description":"Wall Switch PKI-Based FIPS-201 Credential Compatible contact / contactless reader.  Strong authentication when used with pivCLASS PAM.",
-	    "pdf":"http://www.hidglobal.com/sites/hidglobal.com/files/resource_files/pivclass-fips-controlled-readers-ds-en.pdf",
-	    "imagefilename":"pivCLASS-R40-H-Reader-front.jpg"
+	    "imagefilename":"http://www.hidglobal.com/sites/hidglobal.com/files/pivclass-r15_0.png"
 	  },
 	  {
 	    "vertical":"pacs",
@@ -340,7 +277,7 @@ window.jsonproductsarray = [
 	    "model":"RP40-H",
 	    "description":"Wall Switch PKI-Based FIPS-201 Credential Compatible and 125 kHz HID Prox contact / contactless reader.  Strong authentication when used with pivCLASS PAM.",
 	    "pdf":"http://www.hidglobal.com/sites/hidglobal.com/files/resource_files/pivclass-fips-controlled-readers-ds-en.pdf",
-	    "imagefilename":"pivCLASS-R40-H-Reader-front.jpg"
+	    "imagefilename":"http://www.hidglobal.com/sites/hidglobal.com/files/rp40_blk_6125_6123_6124_3.png"
 	  },
 	  {
 	    "vertical":"pacs",
@@ -348,15 +285,7 @@ window.jsonproductsarray = [
 	    "model":"RK40-H",
 	    "description":"Wall Switch PKI-Based FIPS-201 Credential Compatible contact / contactless reader with keypad.  Strong authentication when used with pivCLASS PAM.",
 	    "pdf":"http://www.hidglobal.com/sites/hidglobal.com/files/resource_files/pivclass-rk40-rpk40-fips-201-readers-ds-en.pdf",
-	    "imagefilename":"pivCLASS-RK40.jpg"
-	  },
-	  {
-	    "vertical":"pacs",
-	    "name":"pivCLASS Prox Wall Switch Keypad Reader",
-	    "model":"RPK40-H",
-	    "description":"Wall Switch PKI-Based FIPS-201 Credential Compatible and 125 kHz HID Prox contact / contactless reader with keypad.  Strong authentication when used with pivCLASS PAM.",
-	    "pdf":"http://www.hidglobal.com/sites/hidglobal.com/files/resource_files/pivclass-rk40-rpk40-fips-201-readers-ds-en.pdf",
-	    "imagefilename":"pivCLASS-RK40.jpg"
+	    "imagefilename":"http://www.hidglobal.com/sites/hidglobal.com/files/pivclass-rk40_0.png"
 	  },
 	  {
 	    "vertical":"pacs",
@@ -364,15 +293,7 @@ window.jsonproductsarray = [
 	    "model":"RKCL40-H",
 	    "description":"Double Wall Switch PKI-Based FIPS-201 Credential Compatible contact / contactless reader with keypad and LCD.  Strong authentication when used with pivCLASS PAM.",
 	    "pdf":"http://www.hidglobal.com/sites/hidglobal.com/files/resource_files/pivclass-fips-limited-readers-ds-en.pdf",
-	    "imagefilename":"RKCL40-P-LCD-Keypad-PIV-Reader-front.jpg"
-	  },
-	  {
-	    "vertical":"pacs",
-	    "name":"pivCLASS Prox Contact Wall Switch LCD Keypad Reader",
-	    "model":"RPKCL40-H",
-	    "description":"Double Wall Switch PKI-Based FIPS-201 Credential Compatible and 125 kHz HID Prox contact / contactless reader with keypad and LCD.  Strong authentication when used with pivCLASS PAM.",
-	    "pdf":"http://www.hidglobal.com/sites/hidglobal.com/files/resource_files/pivclass-fips-limited-readers-ds-en.pdf",
-	    "imagefilename":"RKCL40-P-LCD-Keypad-PIV-Reader-front.jpg"
+	    "imagefilename":"http://www.hidglobal.com/sites/hidglobal.com/files/pivclass-rkcl40.png"
 	  },
 	  {
 	    "vertical":"pacs",
@@ -388,7 +309,7 @@ window.jsonproductsarray = [
 	    "model":"ESH400 ",
 	    "description":"A Controller that is a cost-effective, stand-alone IP -enabled access control solution that is designed for sites with one or two doors utilizing Hi-O technology in an outdoor or outdoor/indoor environment.",
 	    "pdf":"http://www.hidglobal.com/sites/hidglobal.com/files/resource_files/evo-esh400-controller-ds-en.pdf",
-	    "imagefilename":"EdgePlus-Evo-Hi-O-EH400-networked-controller-front.jpg"
+	    "imagefilename":"http://www.hidglobal.com/sites/hidglobal.com/files/edge-evo-ehr40-k_5.png"
 	  },
 	  {
 	    "vertical":"pacs",
@@ -396,7 +317,7 @@ window.jsonproductsarray = [
 	    "model":"ESHR40 & ESHRP40",
 	    "description":"A single door controller/readers with Hi-O interface to Hi-O door components and is  a cost-effective, stand-alone, IP -enabled access control solution utilizing Hi-O technology.",
 	    "pdf":"http://www.hidglobal.com/sites/hidglobal.com/files/resource_files/evo-eshr40-eshrp40-reader-ds-en.pdf",
-	    "imagefilename":"edge-evo-ehr40-hio-reader-controller.jpg"
+	    "imagefilename":"http://www.hidglobal.com/sites/hidglobal.com/files/edge-evo-ehr40-k_5.png"
 	  },
 	  {
 	    "vertical":"pacs",
@@ -404,7 +325,7 @@ window.jsonproductsarray = [
 	    "model":"ESHR40-K",
 	    "description":"A single door controller/reader and module with native interfaces to four inputs and two outputs and is a cost-effective, stand-alone, IP-enabled access control solution. ",
 	    "pdf":"http://www.hidglobal.com/sites/hidglobal.com/files/resource_files/evo-eshr40K-module-ds-en.pdf",
-	    "imagefilename":"evo-eshr40K-module-ds-en.jpg"
+	    "imagefilename":"http://www.hidglobal.com/sites/hidglobal.com/files/edge-evo-ehr40-k_5.png"
 	  },
 	  {
 	    "vertical":"pacs",
@@ -412,7 +333,7 @@ window.jsonproductsarray = [
 	    "model":"ESHRP40-K",
 	    "description":"Controller/Reader and Module is a cost-effective, stand-alone, IP-enabled access control solution that is designed for sites with one or two doors in an indoor single reader or indoor/outdoor two reader environment.",
 	    "pdf":"http://www.hidglobal.com/sites/hidglobal.com/files/resource_files/evo-eshrp40K-module-ds-en.pdf",
-	    "imagefilename":"evo-eshr40K-module-ds-en.jpg"
+	    "imagefilename":"http://www.hidglobal.com/sites/hidglobal.com/files/edge-evo-ehr40-k_5.png"
 	  },
 	  {
 	    "vertical":"pacs",
@@ -420,7 +341,7 @@ window.jsonproductsarray = [
 	    "model":"EH400",
 	    "description":"A single-door access control panel featuring Power over Ethernet (PoE). The EH400 makes local door decisions and can interface with one or two Hi-O iCLASS readers.",
 	    "pdf":"http://www.hidglobal.com/sites/hidglobal.com/files/resource_files/evo-eh400-reader-ds-en.pdf",
-	    "imagefilename":"EdgePlus-Evo-Hi-O-EH400-networked-controller-front.jpg"
+	    "imagefilename":"http://www.hidglobal.com/sites/hidglobal.com/files/edgeplus-evo-eh400-networked-controller-front_1.png"
 	  },
 	  {
 	    "vertical":"pacs",
@@ -428,7 +349,7 @@ window.jsonproductsarray = [
 	    "model":"none",
 	    "description":"A Hi-O Interface Modules provide door and extended IO interface between discrete IO and an EDGE EVO Controller. ",
 	    "pdf":"http://www.hidglobal.com/sites/hidglobal.com/files/resource_files/evo-hio-modules-ds-en.pdf",
-	    "imagefilename":"evo-hio-modules-ds-en.jpg"
+	    "imagefilename":"http://www.hidglobal.com/sites/hidglobal.com/files/edge-evo-hi-o-interface-module.png"
 	  },
 	  {
 	    "vertical":"pacs",
@@ -436,7 +357,7 @@ window.jsonproductsarray = [
 	    "model":"EVO V1000",
 	    "description":"IP Master Access Controller, controlling up to 64 doors, 512 inputs or 384 outputs",
 	    "pdf":"http://www.hidglobal.com/sites/hidglobal.com/files/resource_files/vertx-evo-v1000-controller-ds-en.pdf",
-	    "imagefilename":"v1000-evo.jpg"
+	    "imagefilename":"http://www.hidglobal.com/sites/hidglobal.com/files/v1000-evo_1.png"
 	  },
 	  {
 	    "vertical":"pacs",
@@ -444,7 +365,7 @@ window.jsonproductsarray = [
 	    "model":"EVO V2000",
 	    "description":"IP Controller / Door Interface, controlling up to 2 readers and 1 or 2 doors",
 	    "pdf":"http://www.hidglobal.com/sites/hidglobal.com/files/resource_files/vertx-evo-v2000-controller-ds-en.pdf",
-	    "imagefilename":"v2000-evo-square.jpg"
+	    "imagefilename":"http://www.hidglobal.com/sites/hidglobal.com/files/v2000-evo_1.png"
 	  },
 	  {
 	    "vertical":"logical",
@@ -452,7 +373,7 @@ window.jsonproductsarray = [
 	    "model":"R3021xxxx",
 	    "description":"Contact Card Reader in a small form factor for mass deployment. Compatible with CCID native driver and Win/Linux/Mac/Android devices.",
 	    "pdf":"http://www.hidglobal.com/sites/hidglobal.com/files/resource_files/omnikey-3021-usb-reader-ds-en.pdf",
-	    "imagefilename":"CardMan3021_silver_OKU.jpg"
+	    "imagefilename":"http://www.hidglobal.com/sites/hidglobal.com/files/ok-3021.png"
 	  },
 	  {
 	    "vertical":"logical",
@@ -460,7 +381,7 @@ window.jsonproductsarray = [
 	    "model":"R3121xxxx",
 	    "description":"Contact Card Reader for One Hand Desktop Operation. Compatible with CCID native driver and Win/Linux/Mac/Android devices.",
 	    "pdf":"http://www.hidglobal.com/sites/hidglobal.com/files/resource_files/ok-3121-usb-ds-en.pdf",
-	    "imagefilename":"3111_3121_card_OKU.jpg"
+	    "imagefilename":"http://www.hidglobal.com/sites/hidglobal.com/files/3111_3121_card_oku.png"
 	  },
 	  {
 	    "vertical":"logical",
@@ -468,7 +389,7 @@ window.jsonproductsarray = [
 	    "model":"R5021xxxx",
 	    "description":"High Frequency Smart Card Reader in a stylish housing for all 14443 A/B and 15693 credentials like HID iCLASS and MIFARE DESFire. Compatible with Win/Linux/Mac devices.",
 	    "pdf":"http://www.hidglobal.com/sites/hidglobal.com/files/resource_files/omnikey-5021-cl-usb-reader-ds-en.pdf",
-	    "imagefilename":"ok5021-angle.jpg"
+	    "imagefilename":"http://www.hidglobal.com/sites/hidglobal.com/files/ok5021-front.png"
 	  },
 	  {
 	    "vertical":"logical",
@@ -476,7 +397,7 @@ window.jsonproductsarray = [
 	    "model":"R5025xxxx",
 	    "description":"Low Frequency Smart Card Reader for HID Prox credentials. Compatible with CCID native driver and Win/Linux/Mac devices.",
 	    "pdf":"http://www.hidglobal.com/sites/hidglobal.com/files/resource_files/omnikey-5025-cl-reader-ds-en.pdf",
-	    "imagefilename":"ok-5x2x-drk-blue.jpg"
+	    "imagefilename":"http://www.hidglobal.com/sites/hidglobal.com/files/ok-5025cl-right-facing_0.png"
 	  },
 	  {
 	    "vertical":"logical",
@@ -484,7 +405,7 @@ window.jsonproductsarray = [
 	    "model":"R53210229-1",
 	    "description":"High Frequency Smart Card Reader in waterproof housing for healthcare or cleanroom applications.  Compatible with all ISO 14443 A/B and 15693 credentials like HID iCLASS and MIFARE DESFire.  Compatible with Win/Linux/Mac devices.",
 	    "pdf":"http://www.hidglobal.com/sites/hidglobal.com/files/resource_files/omnikey-5321-cr-usb-reader-ds-en.pdf",
-	    "imagefilename":"OK5321_CR_01_OKU.jpg"
+	    "imagefilename":"http://www.hidglobal.com/sites/hidglobal.com/files/ok5325_oku.png"
 	  },
 	  {
 	    "vertical":"logical",
@@ -492,7 +413,7 @@ window.jsonproductsarray = [
 	    "model":"R5325xxxx",
 	    "description":"Dual Interface Low Frequency and Contact Card Reader for card migration scenarios. Compatible with Win/Linux/Mac devices.",
 	    "pdf":"http://www.hidglobal.com/sites/hidglobal.com/files/resource_files/omnikey-5325-usb-prox-reader-ds-en.pdf",
-	    "imagefilename":"OK5325_OKU.jpg"
+	    "imagefilename":"http://www.hidglobal.com/sites/hidglobal.com/files/ok5321_cl_oku_0.png"
 	  },
 	  {
 	    "vertical":"logical",
@@ -500,7 +421,7 @@ window.jsonproductsarray = [
 	    "model":"R5421xxxx",
 	    "description":"Dual Interface High Frequency and Contact Card Reader for card migration scenarios. Compatible with Win/Linux/Mac devices.",
 	    "pdf":"http://www.hidglobal.com/sites/hidglobal.com/files/resource_files/omnikey-5421-reader-ds-en.pdf",
-	    "imagefilename":"OK5421-front-3qrtr.jpg"
+	    "imagefilename":"http://www.hidglobal.com/sites/hidglobal.com/files/ok5421-front-3qrtr-lft-side.png"
 	  },
 	  {
 	    "vertical":"logical",
@@ -508,7 +429,7 @@ window.jsonproductsarray = [
 	    "model":"R5427xxxx",
 	    "description":"Dual Frequency Reader with Keyboard Emulation Mode for autonomous handling of cards. Easy system integration without the need for an additional software application. Compatible with HID Seos and Win/Linux/Mac devices.",
 	    "pdf":"http://www.hidglobal.com/sites/hidglobal.com/files/resource_files/omnikey-5427-ck-reader-ds-en.pdf",
-	    "imagefilename":"OK5421-front-3qrtr.jpg"
+	    "imagefilename":"http://www.hidglobal.com/sites/hidglobal.com/files/styles/masthead/public/omnikeyr-5427-ck_1.png?itok=_902D9IM"
 	  },
 	  {
 	    "vertical":"logical",
@@ -516,7 +437,7 @@ window.jsonproductsarray = [
 	    "model":"R6121xxxx",
 	    "description":"Contact Card Reader in dongle size housing for SIM size smart cards. Compatible with CCID native driver and Win/Linux/Mac/Android devices.",
 	    "pdf":"http://www.hidglobal.com/sites/hidglobal.com/files/resource_files/omnikey-6121-mobile-usb-reader-ds-en.pdf",
-	    "imagefilename":"ok6121_l_cap_off_OKU-hi.jpg"
+	    "imagefilename":"http://www.hidglobal.com/sites/hidglobal.com/files/ok6121_l_cap_off_oku.png"
 	  },
 	  {
 	    "vertical":"logical",
@@ -524,7 +445,7 @@ window.jsonproductsarray = [
 	    "model":"V3xx",
 	    "description":"The Lumidigm V-Series fingerprint sensors deliver superior biometric authentication and industry-leading liveness detection. In any environment and with any user demographic, improve your application's throughput, accuracy, speed and security with a V-Series fingerprint sensor.",
 	    "pdf":"http://www.lumidigm.com/media/Lumidigm_V-Series_Sensors_Datasheet_v1.15.pdf",
-	    "imagefilename":"Lumidigm-V-Series-blue.jpg"
+	    "imagefilename":"http://www.hidglobal.com/sites/hidglobal.com/files/lumidigm-v-series-sensor-trans.png"
 	  },
 	  {
 	    "vertical":"logical",
@@ -532,7 +453,7 @@ window.jsonproductsarray = [
 	    "model":"M3xx",
 	    "description":"Built for business, the Lumidigm M-Series is a fast and reliable fingerprint sensor with a convenient footprint. Securely authenticate a user and enable your identity and access management application with a simple tap of a finger.",
 	    "pdf":"http://www.lumidigm.com/media/Lumidigm_M-Series_Sensors_Datasheet_v1.15.pdf",
-	    "imagefilename":"lumidigm-m-series.jpg"
+	    "imagefilename":"http://www.hidglobal.com/sites/hidglobal.com/files/lumidigm_m-series_sensor-new.png"
 	  },
 	  {
 	    "vertical":"logical",
@@ -540,7 +461,7 @@ window.jsonproductsarray = [
 	    "model":"ACCXXXXLxx",
 	    "description":"Smart card solution for strong authentication to protect workstations, mobile devices and networks.",
 	    "pdf":"http://www.hidglobal.com/sites/hidglobal.com/files/resource_files/activid-activclient-security-software-ds-en.pdf",
-	    "imagefilename":"activid-activclient-security-software-group.jpg"
+	    "imagefilename":"http://www.hidglobal.com/sites/hidglobal.com/files/activid-secure-activclient.png"
 	  },
 	  {
 	    "vertical":"logical",
@@ -548,7 +469,7 @@ window.jsonproductsarray = [
 	    "model":"CMSXXXXLxx",
 	    "description":"Solution for issuing and managing PIV and PIV-I cards, enterprise access cards and mobile credentials.",
 	    "pdf":"http://www.hidglobal.com/sites/hidglobal.com/files/resource_files/activid-cms-ds-en.pdf",
-	    "imagefilename":"activid-cms-group.jpg"
+	    "imagefilename":"http://www.hidglobal.com/sites/hidglobal.com/files/activid-credential-management-system-img.png"
 	  },
 	  {
 	    "vertical":"logical",
@@ -556,7 +477,7 @@ window.jsonproductsarray = [
 	    "model":"A4AXXxxxxx",
 	    "description":"A versatile, easy to deploy multi-factor authentication appliance ideal for securing employee access to enterprise networks and customer access to online banking.",
 	    "pdf":"http://www.hidglobal.com/sites/hidglobal.com/files/resource_files/identity-assurance-activid-appliance-ds-en.pdf",
-	    "imagefilename":"4TRESS-blue.png"
+	    "imagefilename":"http://www.hidglobal.com/sites/hidglobal.com/files/activid-4tress-blue.png"
 	  },
 	  {
 	    "vertical":"logical",
@@ -564,7 +485,7 @@ window.jsonproductsarray = [
 	    "model":"SC0080Jxxxxxxxxx",
 	    "description":"High security hybrid smart card technology for converged physical and logical access control",
 	    "pdf":"http://www.hidglobal.com/sites/hidglobal.com/files/resource_files/crescendo-c1100-smart-card-ds-en.pdf",
-	    "imagefilename":"crescendo-smart-card-c1100.jpg"
+	    "imagefilename":"http://www.hidglobal.com/sites/hidglobal.com/files/crescendo-smart-card-c1100.png"
 	  },
 	  {
 	    "vertical":"logical",
@@ -588,7 +509,7 @@ window.jsonproductsarray = [
 	    "model":"",
 	    "description":"Organizations can use a variety of portable, easy-to-use OTP Tokens to strengthen their access security. ",
 	    "pdf":"http://www.hidglobal.com/sites/hidglobal.com/files/resource_files/activid-one-time-password-tokens-ds-en_0.pdf",
-	    "imagefilename":"activid-one-time-password-tokens-en.png"
+	    "imagefilename":"http://www.hidglobal.com/sites/hidglobal.com/files/activid-display-token-1.png"
 	  },
 	  {
 	    "vertical":"card",
@@ -596,7 +517,7 @@ window.jsonproductsarray = [
 	    "model":"51975",
 	    "description":"Simple, reliable, affordable entry level solution.",
 	    "pdf":"http://www.hidglobal.com/sites/hidglobal.com/files/resource_files/fargo-c50-priner-ds-en.pdf",
-	    "imagefilename":"C50-F.png"
+	    "imagefilename":"http://www.hidglobal.com/sites/hidglobal.com/files/c50_launch_2.png"
 	  },
 	  {
 	    "vertical":"card",
@@ -604,7 +525,7 @@ window.jsonproductsarray = [
 	    "model":"53200",
 	    "description":"Extremely cost-effective, total-cost-of ownership card printing solution.",
 	    "pdf":"http://www.hidglobal.com/sites/hidglobal.com/files/resource_files/fargo-dtc1000me-printer-ds-en.pdf",
-	    "imagefilename":"DTC1000Me-F.png"
+	    "imagefilename":"http://www.hidglobal.com/sites/hidglobal.com/files/dtc1000me-ang-l.png"
 	  },
 	  {
 	    "vertical":"card",
@@ -612,7 +533,7 @@ window.jsonproductsarray = [
 	    "model":"51000",
 	    "description":"Affordability meets speed, feature-rich options and Peace-of-mind. Best in class.",
 	    "pdf":"http://www.hidglobal.com/sites/hidglobal.com/files/resource_files/fargo-dtc1250e-printer-ds-en.pdf",
-	    "imagefilename":"DTC1250e-F.png"
+	    "imagefilename":"http://www.hidglobal.com/sites/hidglobal.com/files/dtc1250e-ang-l_0.png"
 	  },
 	  {
 	    "vertical":"card",
@@ -620,7 +541,7 @@ window.jsonproductsarray = [
 	    "model":"52000",
 	    "description":"Flexible and future proof printer.",
 	    "pdf":"http://www.hidglobal.com/sites/hidglobal.com/files/resource_files/fargo-dtc4250e-printer-ds-en.pdf",
-	    "imagefilename":"DTC4250e-SNGL-F.png"
+	    "imagefilename":"http://www.hidglobal.com/sites/hidglobal.com/files/dtc-4250e-sngl-ang-l_0.png"
 	  },
 	  {
 	    "vertical":"card",
@@ -628,7 +549,7 @@ window.jsonproductsarray = [
 	    "model":"55000",
 	    "description":"Throughput cost-per-card, future proof and security feature packed solution.",
 	    "pdf":"http://www.hidglobal.com/sites/hidglobal.com/files/resource_files/fargo-dtc4500e-printer-ds-en.pdf",
-	    "imagefilename":"DTC4500e-dual-dual-F.png"
+	    "imagefilename":"http://www.hidglobal.com/sites/hidglobal.com/files/dtc-4500e-dualsd-dual-hpprs-ang-l_0.png"
 	  },
 	  {
 	    "vertical":"card",
@@ -636,7 +557,7 @@ window.jsonproductsarray = [
 	    "model":"89600",
 	    "description":"Get vibrant, High Definition cards in a reliable and affordable package",
 	    "pdf":"http://www.hidglobal.com/sites/hidglobal.com/files/resource_files/fargo-hdp5000-printer-br-en.pdf",
-	    "imagefilename":"HDP5000-flip-straight_shadow.png"
+	    "imagefilename":"http://www.hidglobal.com/sites/hidglobal.com/files/hdp5000-flip-rt.png"
 	  },
 	  {
 	    "vertical":"card",
@@ -644,7 +565,7 @@ window.jsonproductsarray = [
 	    "model":"89380",
 	    "description":"Practical and affordable solution for the instant issuance of a wide range of financial cards",
 	    "pdf":"http://www.hidglobal.com/sites/hidglobal.com/files/resource_files/fargo-hdpiiplus-printer-br-en.pdf",
-	    "imagefilename":"HDP-2-Plus-straight-reflec.png"
+	    "imagefilename":"http://www.hidglobal.com/sites/hidglobal.com/files/hdpii-plus-rt-web.png"
 	  },
 	  {
 	    "vertical":"card",
@@ -652,7 +573,7 @@ window.jsonproductsarray = [
 	    "model":"88500",
 	    "description":"Superior industrial ID printer for extended-run, high throughput credential personalization and issuance",
 	    "pdf":"http://www.hidglobal.com/sites/hidglobal.com/files/resource_files/fargo-hdp8500-printer-br-en.pdf",
-	    "imagefilename":"HDP8500-PrinterLaminator_Front_ScreenLit.png"
+	    "imagefilename":"http://www.hidglobal.com/sites/hidglobal.com/files/hdp-8500-l-angle.png"
 	  },
 	  {
 	    "vertical":"card",
@@ -660,7 +581,7 @@ window.jsonproductsarray = [
 	    "model":"none",
 	    "description":"Asure ID Enterprise enables multiple workstations to share a common database over a network,whether Asure ID is installed on a PC or a Windows 8 Pro Tablet. ",
 	    "pdf":"http://www.hidglobal.com/sites/hidglobal.com/files/resource_files/asureid-enterprise-software-ds-en.pdf",
-	    "imagefilename":"asure-id-enterprise.png"
+	    "imagefilename":"http://www.hidglobal.com/sites/hidglobal.com/files/asure-id-7-enterprise.png"
 	  },
 	  {
 	    "vertical":"card",
@@ -668,7 +589,7 @@ window.jsonproductsarray = [
 	    "model":"none",
 	    "description":"Asure ID Exchange is great for organizations seeking intuitive card design and data management tools for advanced card personalization applications.",
 	    "pdf":"http://www.hidglobal.com/sites/hidglobal.com/files/resource_files/asureid-exchange-software-ds-en.pdf",
-	    "imagefilename":"asure-id-exchange.png"
+	    "imagefilename":"http://www.hidglobal.com/sites/hidglobal.com/files/asure-id-7-exchange_1.png"
 	  },
 	  {
 	    "vertical":"card",
@@ -676,7 +597,7 @@ window.jsonproductsarray = [
 	    "model":"none",
 	    "description":"Asure ID Express is the ideal choice for organizations looking for an affordable and even easy-to-usestand alone photo ID card software.",
 	    "pdf":"http://www.hidglobal.com/sites/hidglobal.com/files/resource_files/asureid-express-software-ds-en.pdf",
-	    "imagefilename":"asure-id-express.png"
+	    "imagefilename":"http://www.hidglobal.com/sites/hidglobal.com/files/asure-id-7-express.png"
 	  },
 	  {
 	    "vertical":"card",
@@ -684,7 +605,7 @@ window.jsonproductsarray = [
 	    "model":"none",
 	    "description":"Asure ID Solo is the perfect entry-level card personalization software, it is Easy-to-use as well as easy to learn.",
 	    "pdf":"http://www.hidglobal.com/sites/hidglobal.com/files/resource_files/asureid-solo-software-ds-en.pdf",
-	    "imagefilename":"asure-id-solo.png"
+	    "imagefilename":"http://www.hidglobal.com/sites/hidglobal.com/files/asure-id-7-solo.png"
 	  },
 	  {
 	    "vertical":"card",
@@ -692,7 +613,7 @@ window.jsonproductsarray = [
 	    "model":"none",
 	    "description":"Enterprise-class solution for visitor registration,\nbadge printing and management of assets and packages Enterprise-class solution for visitor registration,\nbadge printing and management of assets and packages ",
 	    "pdf":"http://www.hidglobal.com/sites/hidglobal.com/files/resource_files/el-secure-visitor-mgmt-10-software-ds-en.pdf",
-	    "imagefilename":"easylobby-dvd-case-mockup.png"
+	    "imagefilename":"http://www.hidglobal.com/sites/hidglobal.com/files/software-vm-svm_4.png"
 	  },
 	  {
 	    "vertical":"card",
@@ -700,7 +621,7 @@ window.jsonproductsarray = [
 	    "model":"none",
 	    "description":"Web-based application enables authorized employees\nor tenants to pre-register visitors online.Web-based application enables authorized employees\nor tenants to pre-register visitors online.",
 	    "pdf":"http://www.hidglobal.com/sites/hidglobal.com/files/resource_files/el-e-advance-visitor-mgmt-software-ds-en.pdf",
-	    "imagefilename":"easylobby-dvd-case-mockup.png"
+	    "imagefilename":"http://www.hidglobal.com/sites/hidglobal.com/files/software-vm-svm_4.png"
 	  },
 	  {
 	    "vertical":"card",
@@ -708,7 +629,7 @@ window.jsonproductsarray = [
 	    "model":"none",
 	    "description":"Visitor self-registration on tablet computers.",
 	    "pdf":"http://www.hidglobal.com/sites/hidglobal.com/files/resource_files/el-e-kiosk-visitor-mgmt-software-ds-en.pdf",
-	    "imagefilename":"easylobby-dvd-case-mockup.png"
+	    "imagefilename":"http://www.hidglobal.com/sites/hidglobal.com/files/software-vm-svm_4.png"
 	  }
 	];
 

@@ -1553,7 +1553,7 @@
   /* Specify Swiper's Size: */
   .swiper-container, .swiper-slide {
     width: 90%;
-    height: 100% !important; }
+    height: 69% !important; }
 
   .swiper-pagination-switch {
     width: 10px !important;
@@ -1577,7 +1577,7 @@
     .reset-icon i {
       font-size: 2em !important;
       color: #05549C;
-      top: -3% !important;}
+      top: 6% !important;}
 
   #logo {
     width: 40% !important; }
@@ -1649,7 +1649,7 @@
         font-size: 1.3em !important; }
       section.product-info .product-slide .datasheet-download-btn {
         width: 30% !important;
-        height: 100% !important;
+        height: 4em !important;
         font-size: 1em !important;
         color: #000;
         background-color: transparent;
@@ -1783,7 +1783,7 @@ p#previous_swiper {
 .reset-icon {
   position: fixed;
   left: 2%;
-  top: 4.5%;
+  top: 1.5%;
   cursor: pointer;
   z-index: 1000; }
   .reset-icon i {

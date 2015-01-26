@@ -20,7 +20,7 @@
     <body>
 
       <div id="header"><img src="img/brick.png"></div>
-      <div class="reset-icon" style="top:2%;"><a href="index.html"><i class="fa fa-chevron-left"></i></a></div>
+      <div class="reset-icon"><a href="index.html"><i class="fa fa-chevron-left"></i></a></div>
                 
         <section class="container vertical">
             <header>      
@@ -113,7 +113,7 @@
                     //store the total count of the specified vertical to use later on
                     totalItems = i;
                     //store the number of slides we need based on value of i and then zero i for next counter
-                    numslides = Math.ceil(i/9);
+                    numslides = Math.ceil(i/2);
                     i = 0;
                     //add the number of requied slide containers to the slide wrapper in preparation for filling them with the required images
                     while( i < numslides ){
@@ -131,12 +131,12 @@
                             if( value['vertical'] != window.hashvalue ){
                               return true;
                             }
-                            if( i >= 9){
+                            if( i >= 2){
                               return false;
                             }
                             i++;
                             //insert links and images for slider 
-                            $('#'+idofslide).find('.product-thumbnails').append('<div><a href="product.html"><img src="product-images/'+value['imagefilename']+'" alt="" /><p>'+value['name']+'</p></a></div>');
+                            $('#'+idofslide).find('.product-thumbnails').append('<div><a href="product.html"><img src="'+ value['imagefilename'] +'" alt="" /><p>'+value['name']+'</p></a></div>');
                             
                             // remove inserted element from JSON array so it's not inserted again
                             value['model'] = null;
@@ -174,7 +174,7 @@
                   finalIndex = $(this).parents('div').index();
                 }
                 else{
-                  finalIndex = $(this).parents('div').index() + ( 9 * multiplier );
+                  finalIndex = $(this).parents('div').index() + ( 2 * multiplier );
                 };
                 //store finalIndex in a cookie so we can go straight to it on the product page
                 $.cookie('productIndexSelected', finalIndex );
