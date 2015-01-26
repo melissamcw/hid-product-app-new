@@ -1847,7 +1847,7 @@ section.homepage {
 section.vertical {
     position: absolute;
     width: 100%;
-    top: -10%;
+    /*top: -10%;*/
     bottom: 0; }
   section.vertical header {
     width: 100%;
@@ -1861,13 +1861,13 @@ section.vertical {
       float:left;
       margin-bottom: 2%; }
       section.vertical header .vertical-icon img {
-        width: 19%; }
+        width: 15%; }
   section.vertical h1 {
     font-family: 'Gotham Light';
-    /*font-weight: lighter;*/
-    margin: 3em 0 1em 2.5em;
+    font-weight: lighter;
+    margin: 2em 0 2em 2.5em;
     padding: 0 0 0 0;
-    text-align: left;
+    text-align: center;
     line-height: 1em;
     font-size: 1.7em; 
     color: #fff;}
@@ -1886,12 +1886,14 @@ section.vertical {
       section.vertical .product-thumbnails div p {
         font-family: 'Gotham Light';
         font-size: 0.55em;
-        margin: -10% 0 0 0;
+        margin: -15% 0 0 0;
         color: #002e56;
         line-height: 1.3em;
         letter-spacing: .022em; 
-        padding-bottom: 2%;
-        max-width: 100px;}
+        padding-bottom: 12%;
+        padding-left: 2%;
+        /*max-width: 90%;*/
+        text-align: center;}
     section.vertical .product-thumbnails img {
       width: 87%;
       

@@ -600,7 +600,7 @@ window.jsonproductsarray = [
 	  },
 	  {
 	    "vertical":"card",
-	    "name":"DTC 1000Me Monochrome ID Card Printer / Encoder",
+	    "name":"DTC 1000Me Monochrome ID <br />Card Printer / Encoder",
 	    "model":"53200",
 	    "description":"Extremely cost-effective, total-cost-of ownership card printing solution.",
 	    "pdf":"http://www.hidglobal.com/sites/hidglobal.com/files/resource_files/fargo-dtc1000me-printer-ds-en.pdf",
@@ -632,7 +632,7 @@ window.jsonproductsarray = [
 	  },
 	  {
 	    "vertical":"card",
-	    "name":"HDP5000 ID Card Printer / Encoder",
+	    "name":"HDP5000 ID Card <br />Printer / Encoder",
 	    "model":"89600",
 	    "description":"Get vibrant, High Definition cards in a reliable and affordable package",
 	    "pdf":"http://www.hidglobal.com/sites/hidglobal.com/files/resource_files/fargo-hdp5000-printer-br-en.pdf",
@@ -640,7 +640,7 @@ window.jsonproductsarray = [
 	  },
 	  {
 	    "vertical":"card",
-	    "name":"HDPii Plus ID Card Printer / Encoder",
+	    "name":"HDPii Plus ID Card<br /> Printer / Encoder",
 	    "model":"89380",
 	    "description":"Practical and affordable solution for the instant issuance of a wide range of financial cards",
 	    "pdf":"http://www.hidglobal.com/sites/hidglobal.com/files/resource_files/fargo-hdpiiplus-printer-br-en.pdf",
@@ -648,7 +648,7 @@ window.jsonproductsarray = [
 	  },
 	  {
 	    "vertical":"card",
-	    "name":"HDP8500 Industrial ID Card Printer / Encoder",
+	    "name":"HDP8500 Industrial ID Card <br />Printer / Encoder",
 	    "model":"88500",
 	    "description":"Superior industrial ID printer for extended-run, high throughput credential personalization and issuance",
 	    "pdf":"http://www.hidglobal.com/sites/hidglobal.com/files/resource_files/fargo-hdp8500-printer-br-en.pdf",
@@ -696,7 +696,7 @@ window.jsonproductsarray = [
 	  },
 	  {
 	    "vertical":"card",
-	    "name":"EasyLobby eAdvance Visitor Pre-Registration",
+	    "name":"EasyLobby eAdvance Visitor <br />Pre-Registration",
 	    "model":"none",
 	    "description":"Web-based application enables authorized employees\nor tenants to pre-register visitors online.Web-based application enables authorized employees\nor tenants to pre-register visitors online.",
 	    "pdf":"http://www.hidglobal.com/sites/hidglobal.com/files/resource_files/el-e-advance-visitor-mgmt-software-ds-en.pdf",
@@ -704,7 +704,7 @@ window.jsonproductsarray = [
 	  },
 	  {
 	    "vertical":"card",
-	    "name":"EasyLobby eKiosk Self Registration Software",
+	    "name":"EasyLobby eKiosk Self <br />Registration Software",
 	    "model":"none",
 	    "description":"Visitor self-registration on tablet computers.",
 	    "pdf":"http://www.hidglobal.com/sites/hidglobal.com/files/resource_files/el-e-kiosk-visitor-mgmt-software-ds-en.pdf",
