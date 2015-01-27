@@ -341,7 +341,7 @@ window.jsonproductsarray = [
 	    "model":"EH400",
 	    "description":"A single-door access control panel featuring Power over Ethernet (PoE). The EH400 makes local door decisions and can interface with one or two Hi-O iCLASS readers.",
 	    "pdf":"http://www.hidglobal.com/sites/hidglobal.com/files/resource_files/evo-eh400-reader-ds-en.pdf",
-	    "imagefilename":"http://www.hidglobal.com/sites/hidglobal.com/files/edgeplus-evo-eh400-networked-controller-front_1.png"
+	    "imagefilename":"EdgePlus-Evo-Hi-O-EH400-networked-controller-front.jpg"
 	  },
 	  {
 	    "vertical":"pacs",
@@ -349,7 +349,7 @@ window.jsonproductsarray = [
 	    "model":"none",
 	    "description":"A Hi-O Interface Modules provide door and extended IO interface between discrete IO and an EDGE EVO Controller. ",
 	    "pdf":"http://www.hidglobal.com/sites/hidglobal.com/files/resource_files/evo-hio-modules-ds-en.pdf",
-	    "imagefilename":"http://www.hidglobal.com/sites/hidglobal.com/files/edge-evo-hi-o-interface-module.png"
+	    "imagefilename":"evo-hio-modules-ds-en.jpg"
 	  },
 	  {
 	    "vertical":"pacs",
