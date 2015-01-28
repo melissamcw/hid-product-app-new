@@ -237,7 +237,7 @@ window.jsonproductsarray = [
 	    "model":"4045",
 	    "description":"Wall switch, 125 kHz HID Prox reader and controller for single door",
 	    "pdf":"http://www.hidglobal.com/sites/hidglobal.com/files/resource_files/prox-enrtyprox-revc-reader-ds-en.pdf",
-	    "imagefilename":"entryprox.jpg"
+	    "imagefilename":"http://www.hidglobal.com/sites/hidglobal.com/files/entryprox.png"
 	  },
 	  {
 	    "vertical":"pacs",
@@ -521,7 +521,7 @@ window.jsonproductsarray = [
 	  },
 	  {
 	    "vertical":"card",
-	    "name":"DTC 1000Me Monochrome ID <br />Card Printer / Encoder",
+	    "name":"DTC 1000Me Monochrome",
 	    "model":"53200",
 	    "description":"Extremely cost-effective, total-cost-of ownership card printing solution.",
 	    "pdf":"http://www.hidglobal.com/sites/hidglobal.com/files/resource_files/fargo-dtc1000me-printer-ds-en.pdf",
@@ -529,7 +529,7 @@ window.jsonproductsarray = [
 	  },
 	  {
 	    "vertical":"card",
-	    "name":"DTC 1250e ID Card Printer / Encoder",
+	    "name":"DTC 1250e",
 	    "model":"51000",
 	    "description":"Affordability meets speed, feature-rich options and Peace-of-mind. Best in class.",
 	    "pdf":"http://www.hidglobal.com/sites/hidglobal.com/files/resource_files/fargo-dtc1250e-printer-ds-en.pdf",
@@ -537,7 +537,7 @@ window.jsonproductsarray = [
 	  },
 	  {
 	    "vertical":"card",
-	    "name":"DTC 4250e ID Card Printer / Encoder",
+	    "name":"DTC 4250e",
 	    "model":"52000",
 	    "description":"Flexible and future proof printer.",
 	    "pdf":"http://www.hidglobal.com/sites/hidglobal.com/files/resource_files/fargo-dtc4250e-printer-ds-en.pdf",
@@ -545,7 +545,7 @@ window.jsonproductsarray = [
 	  },
 	  {
 	    "vertical":"card",
-	    "name":"DTC 4500e ID Card Printer / Encoder",
+	    "name":"DTC 4500e",
 	    "model":"55000",
 	    "description":"Throughput cost-per-card, future proof and security feature packed solution.",
 	    "pdf":"http://www.hidglobal.com/sites/hidglobal.com/files/resource_files/fargo-dtc4500e-printer-ds-en.pdf",
@@ -553,7 +553,7 @@ window.jsonproductsarray = [
 	  },
 	  {
 	    "vertical":"card",
-	    "name":"HDP5000 ID Card <br />Printer / Encoder",
+	    "name":"HDP5000",
 	    "model":"89600",
 	    "description":"Get vibrant, High Definition cards in a reliable and affordable package",
 	    "pdf":"http://www.hidglobal.com/sites/hidglobal.com/files/resource_files/fargo-hdp5000-printer-br-en.pdf",
@@ -561,7 +561,7 @@ window.jsonproductsarray = [
 	  },
 	  {
 	    "vertical":"card",
-	    "name":"HDPii Plus ID Card<br /> Printer / Encoder",
+	    "name":"HDPii Plus",
 	    "model":"89380",
 	    "description":"Practical and affordable solution for the instant issuance of a wide range of financial cards",
 	    "pdf":"http://www.hidglobal.com/sites/hidglobal.com/files/resource_files/fargo-hdpiiplus-printer-br-en.pdf",
@@ -617,7 +617,7 @@ window.jsonproductsarray = [
 	  },
 	  {
 	    "vertical":"card",
-	    "name":"EasyLobby eAdvance Visitor <br />Pre-Registration",
+	    "name":"EasyLobby eAdvance Visitor Pre-Registration",
 	    "model":"none",
 	    "description":"Web-based application enables authorized employees\nor tenants to pre-register visitors online.Web-based application enables authorized employees\nor tenants to pre-register visitors online.",
 	    "pdf":"http://www.hidglobal.com/sites/hidglobal.com/files/resource_files/el-e-advance-visitor-mgmt-software-ds-en.pdf",
@@ -625,7 +625,7 @@ window.jsonproductsarray = [
 	  },
 	  {
 	    "vertical":"card",
-	    "name":"EasyLobby eKiosk Self <br />Registration Software",
+	    "name":"EasyLobby eKiosk Self Registration Software",
 	    "model":"none",
 	    "description":"Visitor self-registration on tablet computers.",
 	    "pdf":"http://www.hidglobal.com/sites/hidglobal.com/files/resource_files/el-e-kiosk-visitor-mgmt-software-ds-en.pdf",

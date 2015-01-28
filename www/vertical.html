@@ -136,7 +136,7 @@
                             }
                             i++;
                             //insert links and images for slider 
-                            $('#'+idofslide).find('.product-thumbnails').append('<div><div class="blue-box"><a href="product.html"><img src="'+ value['imagefilename'] +'" alt="" /><p>'+value['name']+'</p></a></div></div>');
+                            $('#'+idofslide).find('.product-thumbnails').append('<div class="blue-box-vertical"><a href="product.html"><img src="'+ value['imagefilename'] +'" alt="" /><p>'+value['name']+'</p></a></div>');
                             
                             // remove inserted element from JSON array so it's not inserted again
                             value['model'] = null;
