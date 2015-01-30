@@ -1602,7 +1602,7 @@
         left: 5%;
         top: 7% !important; }
         section.vertical header .vertical-icon img {
-          width: 19% !important; }
+          width: 22% !important; }
     section.vertical h1 {
       margin: 0.8em 0 0em 0 !important;
       padding: 0 0 0 3.5em !important;
@@ -1856,16 +1856,16 @@ section.vertical {
     text-align: left; }
     section.vertical header .vertical-icon {
       position: absolute;
-      left: 15%;
-      top: 85px;
+      left: 11%;
+      top: 60px;
       float:left;
       margin-bottom: 2%; }
       section.vertical header .vertical-icon img {
-        width: 15%; }
+        width: 22%; }
   section.vertical h1 {
     font-family: 'Gotham Light';
     font-weight: lighter;
-    margin: 2em 0 0 2.5em;
+    margin: 1.5em 0 0 1.75em;
     padding: 38px 0 0 0;
     text-align: center;
     line-height: 1em;
@@ -1873,19 +1873,19 @@ section.vertical {
     color: #fff;}
   section.vertical .product-thumbnails {
     height: 100%;
-    margin-left: 2%;
+    margin-left: 5%;
     margin-right: -10%;
     float: left;}
     section.vertical .product-thumbnails div {
       width: 48%;
       height: 25%;
       float: left;
-      margin: 4% 2% 1% 0; }
+      margin: 10% 2% 1% 0; }
       section.vertical .product-thumbnails div a {
         text-decoration: none; }
       section.vertical .product-thumbnails div p {
         font-family: 'Gotham Light';
-        font-size: 0.55em;
+        font-size: 10px;
         margin: -15% 0 0 0;
         color: #002e56;
         line-height: 1.3em;
@@ -1895,18 +1895,14 @@ section.vertical {
         width: 90%;
         text-align: center;}
     section.vertical .product-thumbnails img {
-      width: 87%;
-      
-      /*border: 1px solid #05549C;*/
-      border-radius: 5px;
-      background: rgba(255, 255, 255, .7); }
-
-    section.vertical .product-thumbnails img:nth-child(9) {
       width: 100%;
-      height: 100%;
-      /*border: 1px solid #05549C;*/
+      margin-bottom: 20%; }
+    section.vertical .blue-box-vertical { 
+       /*border: 1px solid #05549C;*/
       border-radius: 5px;
-      background: red; }
+      background: rgba(255, 255, 255, .7);
+      height: 100%; 
+      width: 46% !important;}
 
 section.product-info {
   height: 100%; }
@@ -1921,28 +1917,37 @@ section.product-info {
       section.product-info header .vertical-icon i {
         font-size: 2.5em;
         color: #b0b }
+  section.product-info .blue-box-product {
+     position: relative; 
+    -webkit-border-radius: 5px;
+      -moz-border-radius: 5px;
+      border-radius: 5px;
+      background-color: rgba(250, 250, 250, .7);
+      height: 7%;
+      width: 95%;
+      margin-left: 5%;
+      top: 1%;
+  }
   section.product-info h1 {
+    position: absolute;
     font-family: 'Gotham Medium';
     text-transform: uppercase;
     letter-spacing: .005em;
     font-weight: normal;
-    margin: 4em 0 0.2em 0;
+    margin: 6em 0 0.2em ;
     padding: 0 0 0 0.7em;
     text-align: center;
     line-height: 1em;
     font-size: 1em; 
-    color: #002e56;}
+    color: #002e56;
+    top: 50%;}
   section.product-info .product-slide {
     height: 100% !important;
     /*border-bottom: 1px solid black; */ }
     section.product-info .product-slide img {
-      width: 93%;
+      width: 85%;
       margin: 0;
-      /*border: 1px solid #05549C;*/
-      -webkit-border-radius: 5px;
-      -moz-border-radius: 5px;
-      border-radius: 5px;
-      background-color: rgba(250, 250, 250, .7); }
+      /*border: 1px solid #05549C;*/ }
     section.product-info .product-slide .product-box { 
       list-style-type: none;
       padding: 0.5em 0 0.5em 15%;
@@ -1958,7 +1963,9 @@ section.product-info {
       font-size: 1.1em;
       height: 110%; }
     section.product-info .product-slide p {
-      font-size: 0.7em; }
+      font-size: 0.7em;
+      position: relative;
+      top: 5%; }
     section.product-info .product-slide .datasheet-download-btn {
       font-family: 'Gotham Medium';
       width: 50%;
