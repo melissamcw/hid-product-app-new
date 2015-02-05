@@ -15,7 +15,6 @@
         <link rel="stylesheet" href="css/idangerous.swiper.css">
         <link rel="stylesheet" href="css/hid.css">
         <link rel="stylesheet" href="css/app.css">
-        <link rel="stylesheet" href="css/plugins.css"/>
         <link rel="stylesheet" href="lib/onsen/css/onsenui.css">  
         <link rel="stylesheet" href="lib/onsen/css/onsen-css-components.css">  
 
@@ -69,13 +68,33 @@
 
         <!-- plugin and custom js code -->
         <script type='application/javascript' src="js/main.js"></script>
-        <script type='application/javascript' src="js/product.js"></script>
         <script type='application/javascript' src="js/SocialSharing.js"></script>
 
 
         <!-- page specific logic -->
         <script type='application/javascript' src="js/product.js"></script>
 
+
+        <script type="text/javascript">
+            <!--
+            $(document).ready(function() {
+              //store hash value for querying json array
+              window.hashvalue = location.hash.substr(1);
+              //dependent on hash value decide what to show
+              if (window.hashvalue == 'pacs') {
+                $('.vertical-icon').html('<img src="img/physical-access.png" alt=""  />');
+                $('#vertical-title').html('Physical Access');
+              }
+              else if(window.hashvalue == 'logical'){
+                $('.vertical-icon').html('<img src="img/logical-access.png" alt=""  />');
+                $('#vertical-title').html('Logical Access');
+              }
+              else{
+                $('.vertical-icon').html('<img src="img/credentials.png" alt=""  />');
+                $('#vertical-title').html('Card Printers');
+              };
+              paparesults(window.jsonproductsarray);
+    </script>
 
     </body>
 </html>

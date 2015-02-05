@@ -1638,7 +1638,7 @@
       margin: 0;
       padding: 0 0 0.5em 0; }
     section.product-info h1 {
-      padding: 0 0 0.5em 0em !important;
+      padding: 1em 0 0.5em 1em !important;
       font-size: 2em !important;
       color: #fff; }
     section.product-info .product-slide {
@@ -1649,7 +1649,7 @@
         font-size: 1.3em !important; }
       section.product-info .product-slide .datasheet-download-btn {
         width: 30% !important;
-        height: 4em !important;
+        height: 2em !important;
         font-size: 1em !important;
         color: #000;
         background-color: transparent;
@@ -1832,7 +1832,8 @@ section.homepage {
         color: #05549C;
         letter-spacing: -1px;
         text-decoration: none;    
-        font-family: 'Gotham Light'; }
+        font-family: 'Gotham Light';
+        font-size: 1.25em; }
       section.homepage ul#vertical_list li img {
         width: 35%;
         display: inline;
@@ -1975,6 +1976,7 @@ section.product-info {
       font-size: .8em;
       color: #FFF;
       border: 1px solid #FFF;
+      border-radius: 5px;
       text-transform: uppercase;
       top: 2%;
       height: 2em;}
