@@ -1880,7 +1880,7 @@ section.vertical {
       width: 48%;
       height: 25%;
       float: left;
-      margin: 10% 2% 1% 0; }
+      margin: 10% 2% 1% 0;}
       section.vertical .product-thumbnails div a {
         text-decoration: none; }
       section.vertical .product-thumbnails div p {
@@ -1926,19 +1926,20 @@ section.product-info {
       background-color: rgba(250, 250, 250, .7);
       width: 95%;
       margin-left: 5%;
-  }
+      height: 07%;}
   section.product-info h1 {
     font-family: 'Gotham Medium';
     text-transform: uppercase;
     letter-spacing: .005em;
     font-weight: normal;
-    margin: 5em 0 0.1em ;
-    padding: 1em 0 0 0;
+    margin: 2em 0 0.1em ;
+    padding: 1em 0 0 1em;
     text-align: center;
     line-height: 1em;
     font-size: 1em; 
     color: #002e56;
-    left: 10%;}
+    left: 10%;
+    max-width: 90%;}
   section.product-info .product-slide {
     height: 100% !important;
     /*border-bottom: 1px solid black; */ }

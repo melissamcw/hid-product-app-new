@@ -140,7 +140,7 @@ window.jsonproductsarray = [
 	    "model":"SE RP10",
 	    "description":"Mullion, 13.56 MHz Multi-Technology iCLASS, iCLASS Seos & 125 kHz HID Prox, AWID, EM4102 or Indala reader",
 	    "pdf":"http://www.hidglobal.com/sites/hidglobal.com/files/resource_files/multiclass-se-readers-ds-en.pdf",
-	    "imagefilename":"multiclass-se-RP10_blk.jpg"
+	    "imagefilename":"http://www.hidglobal.com/sites/hidglobal.com/files/rp15_blk_6145_6143_6144_3.png"
 	  },
 	  {
 	    "vertical":"pacs",
