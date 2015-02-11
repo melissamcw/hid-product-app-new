@@ -100,7 +100,7 @@ window.jsonproductsarray = [
 	    "model":"none",
 	    "description":"Secure access control through mobile devices.",
 	    "pdf":"http://www.hidglobal.com/sites/hidglobal.com/files/resource_files/hid-mobile-access-solutions-ds-en.pdf",
-	    "imagefilename":"mobile-access-12-2014.jpg"
+	    "imagefilename":"http://www.hidglobal.com/sites/hidglobal.com/files/iclass-se-platform.png"
 	  },
 	  {
 	    "vertical":"pacs",
@@ -108,7 +108,7 @@ window.jsonproductsarray = [
 	    "model":"none",
 	    "description":"Secure digital identities for physical access control using mobile devices.",
 	    "pdf":"http://www.hidglobal.com/sites/hidglobal.com/files/resource_files/hid-mobile-id-ds-en.pdf",
-	    "imagefilename":"mobile-access-IDs-12-2014.jpg"
+	    "imagefilename":"http://www.hidglobal.com/sites/hidglobal.com/files/iclass-se-platform.png"
 	  },
 	  {
 	    "vertical":"pacs",
@@ -116,7 +116,7 @@ window.jsonproductsarray = [
 	    "model":"none",
 	    "description":"Mobile enabled iCLASS SE Platform Readers that offer new ways to open doors.",
 	    "pdf":"http://www.hidglobal.com/sites/hidglobal.com/files/resource_files/hid-mobile-access-readers-nfc-ds-en.pdf",
-	    "imagefilename":"mobile-access-readers-12-2014.jpg"
+	    "imagefilename":"http://www.hidglobal.com/sites/hidglobal.com/files/iclass-se-platform.png"
 	  },
 	  {
 	    "vertical":"pacs",

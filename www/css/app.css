@@ -18,6 +18,12 @@
   font-style: normal;
 }
 
+@font-face {
+  font-family: "Gotham-Book";
+  src: url('../fonts/Gotham-Book.otf') format('otf'), url('../fonts/Gothan-Book.otf') format('opentype'), url('../fonts/Gotham-Book.otf') format('OpenType');
+  font-style: normal;
+}
+
 /* Global & Helpers */
 h1,
 h2,
